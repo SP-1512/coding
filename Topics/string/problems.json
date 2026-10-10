@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-10T18:50:23.824Z",
+  "updatedAt": "2026-10-10T18:50:32.346Z",
   "problems": [
     {
       "frontendId": "58",
@@ -44,6 +44,26 @@
           "path": "0151-reverse-words-in-a-string/0151-reverse-words-in-a-string.py",
           "sha": "d48d81f50eed69e12e302e3bc51c4927a4609c72",
           "lastSyncedAt": "2026-10-10T18:49:55.691Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1108",
+      "title": "Defanging an IP Address",
+      "slug": "defanging-an-ip-address",
+      "problemName": "1108-defanging-an-ip-address",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/defanging-an-ip-address/",
+      "folderPath": "1108-defanging-an-ip-address/",
+      "readmePath": "1108-defanging-an-ip-address/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1108-defanging-an-ip-address.py",
+          "path": "1108-defanging-an-ip-address/1108-defanging-an-ip-address.py",
+          "sha": "c09910e32a6616068730b1307d9eb70ba2a6e5fc",
+          "lastSyncedAt": "2026-10-10T18:50:32.346Z"
         }
       ]
     },
