@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-10T19:14:40.079Z",
+  "updatedAt": "2026-10-10T19:15:01.011Z",
   "problems": [
     {
       "frontendId": "204",
@@ -184,6 +184,26 @@
           "path": "1512-number-of-good-pairs/1512-number-of-good-pairs.py",
           "sha": "1b8f22e9496eaabc8c80c3b9431e8be816d34700",
           "lastSyncedAt": "2026-10-10T19:11:52.014Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1523",
+      "title": "Count Odd Numbers in an Interval Range",
+      "slug": "count-odd-numbers-in-an-interval-range",
+      "problemName": "1523-count-odd-numbers-in-an-interval-range",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/",
+      "folderPath": "1523-count-odd-numbers-in-an-interval-range/",
+      "readmePath": "1523-count-odd-numbers-in-an-interval-range/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1523-count-odd-numbers-in-an-interval-range.py",
+          "path": "1523-count-odd-numbers-in-an-interval-range/1523-count-odd-numbers-in-an-interval-range.py",
+          "sha": "af82acfaa865279d57f013dd844cd6d0b6743ef3",
+          "lastSyncedAt": "2026-10-10T19:15:01.011Z"
         }
       ]
     },
