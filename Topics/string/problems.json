@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-10T19:13:31.006Z",
+  "updatedAt": "2026-10-10T19:14:09.363Z",
   "problems": [
     {
       "frontendId": "58",
@@ -124,6 +124,26 @@
           "path": "0345-reverse-vowels-of-a-string/0345-reverse-vowels-of-a-string.py",
           "sha": "fea9b6d67900155a81a7bef9000042fe12263253",
           "lastSyncedAt": "2026-10-10T19:09:39.010Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "451",
+      "title": "Sort Characters By Frequency",
+      "slug": "sort-characters-by-frequency",
+      "problemName": "0451-sort-characters-by-frequency",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sort-characters-by-frequency/",
+      "folderPath": "0451-sort-characters-by-frequency/",
+      "readmePath": "0451-sort-characters-by-frequency/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0451-sort-characters-by-frequency.py",
+          "path": "0451-sort-characters-by-frequency/0451-sort-characters-by-frequency.py",
+          "sha": "dcbd743b82e9cacf26aa4c4c96879932322a43c1",
+          "lastSyncedAt": "2026-10-10T19:14:09.363Z"
         }
       ]
     },
