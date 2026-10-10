@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "bit-manipulation",
+    "name": "Bit Manipulation",
+    "tagId": "19"
+  },
+  "updatedAt": "2026-10-10T18:56:09.279Z",
+  "problems": [
+    {
+      "frontendId": "342",
+      "title": "Power of Four",
+      "slug": "power-of-four",
+      "problemName": "0342-power-of-four",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/power-of-four/",
+      "folderPath": "0342-power-of-four/",
+      "readmePath": "0342-power-of-four/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0342-power-of-four.py",
+          "path": "0342-power-of-four/0342-power-of-four.py",
+          "sha": "7f3b72691f9408dec70f1680ae7ed8862d7e3634",
+          "lastSyncedAt": "2026-10-10T18:56:09.279Z"
+        }
+      ]
+    }
+  ]
+}
