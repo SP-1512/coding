@@ -5,7 +5,7 @@
     "name": "Counting",
     "tagId": "61062"
   },
-  "updatedAt": "2026-10-10T19:13:14.264Z",
+  "updatedAt": "2026-10-10T19:13:31.006Z",
   "problems": [
     {
       "frontendId": "169",
@@ -24,6 +24,26 @@
           "path": "0169-majority-element/0169-majority-element.py",
           "sha": "23b7e26484d0722a4a44ee6715fc7feb11220acd",
           "lastSyncedAt": "2026-10-10T19:12:22.015Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "692",
+      "title": "Top K Frequent Words",
+      "slug": "top-k-frequent-words",
+      "problemName": "0692-top-k-frequent-words",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/top-k-frequent-words/",
+      "folderPath": "0692-top-k-frequent-words/",
+      "readmePath": "0692-top-k-frequent-words/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0692-top-k-frequent-words.py",
+          "path": "0692-top-k-frequent-words/0692-top-k-frequent-words.py",
+          "sha": "ec39b25efecadc328079986565432f4798175170",
+          "lastSyncedAt": "2026-10-10T19:13:31.006Z"
         }
       ]
     },
