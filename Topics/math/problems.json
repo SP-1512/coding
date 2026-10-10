@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-10T19:17:07.016Z",
+  "updatedAt": "2026-10-10T19:17:28.182Z",
   "problems": [
     {
       "frontendId": "9",
@@ -84,6 +84,26 @@
           "path": "0231-power-of-two/0231-power-of-two.py",
           "sha": "8517f80ef8aab747de3b4b457af6bf199a4c92f2",
           "lastSyncedAt": "2026-10-10T19:10:00.023Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "233",
+      "title": "Number of Digit One",
+      "slug": "number-of-digit-one",
+      "problemName": "0233-number-of-digit-one",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-digit-one/",
+      "folderPath": "0233-number-of-digit-one/",
+      "readmePath": "0233-number-of-digit-one/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0233-number-of-digit-one.cpp",
+          "path": "0233-number-of-digit-one/0233-number-of-digit-one.cpp",
+          "sha": "7a44e9d753f7e8277e903e76e154292bd34672e6",
+          "lastSyncedAt": "2026-10-10T19:17:28.182Z"
         }
       ]
     },
