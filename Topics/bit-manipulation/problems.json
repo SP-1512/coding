@@ -5,7 +5,7 @@
     "name": "Bit Manipulation",
     "tagId": "19"
   },
-  "updatedAt": "2026-10-10T19:16:23.782Z",
+  "updatedAt": "2026-10-10T19:16:30.673Z",
   "problems": [
     {
       "frontendId": "231",
@@ -104,6 +104,26 @@
           "path": "1342-number-of-steps-to-reduce-a-number-to-zero/1342-number-of-steps-to-reduce-a-number-to-zero.cpp",
           "sha": "6a8f87f0b93866feaf9a92ea3455a0246d045fc7",
           "lastSyncedAt": "2026-10-10T19:16:23.782Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1486",
+      "title": "XOR Operation in an Array",
+      "slug": "xor-operation-in-an-array",
+      "problemName": "1486-xor-operation-in-an-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/xor-operation-in-an-array/",
+      "folderPath": "1486-xor-operation-in-an-array/",
+      "readmePath": "1486-xor-operation-in-an-array/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1486-xor-operation-in-an-array.cpp",
+          "path": "1486-xor-operation-in-an-array/1486-xor-operation-in-an-array.cpp",
+          "sha": "e1b58c44b71f9bc6d361284645807378a38c5578",
+          "lastSyncedAt": "2026-10-10T19:16:30.673Z"
         }
       ]
     }
