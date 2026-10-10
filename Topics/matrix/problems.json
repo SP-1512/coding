@@ -5,7 +5,7 @@
     "name": "Matrix",
     "tagId": "61053"
   },
-  "updatedAt": "2026-10-10T18:57:37.202Z",
+  "updatedAt": "2026-10-10T18:57:43.959Z",
   "problems": [
     {
       "frontendId": "54",
@@ -44,6 +44,26 @@
           "path": "0766-toeplitz-matrix/0766-toeplitz-matrix.py",
           "sha": "3f2fef67bdbe5bab7006f9b7d468d1498b8c64a3",
           "lastSyncedAt": "2026-10-10T18:54:27.518Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1572",
+      "title": "Matrix Diagonal Sum",
+      "slug": "matrix-diagonal-sum",
+      "problemName": "1572-matrix-diagonal-sum",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/matrix-diagonal-sum/",
+      "folderPath": "1572-matrix-diagonal-sum/",
+      "readmePath": "1572-matrix-diagonal-sum/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1572-matrix-diagonal-sum.py",
+          "path": "1572-matrix-diagonal-sum/1572-matrix-diagonal-sum.py",
+          "sha": "c7544b0a6b5ac39d80e4cf10eeb03786afa28f8c",
+          "lastSyncedAt": "2026-10-10T18:57:43.959Z"
         }
       ]
     },
