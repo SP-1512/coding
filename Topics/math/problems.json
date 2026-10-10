@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-10T19:15:51.170Z",
+  "updatedAt": "2026-10-10T19:16:04.896Z",
   "problems": [
     {
       "frontendId": "66",
@@ -304,6 +304,26 @@
           "path": "2469-convert-the-temperature/2469-convert-the-temperature.py",
           "sha": "20a813fa5f8ef368373a12d0f08c6a97ae09f8ca",
           "lastSyncedAt": "2026-10-10T19:09:03.014Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2520",
+      "title": "Count the Digits That Divide a Number",
+      "slug": "count-the-digits-that-divide-a-number",
+      "problemName": "2520-count-the-digits-that-divide-a-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/count-the-digits-that-divide-a-number/",
+      "folderPath": "2520-count-the-digits-that-divide-a-number/",
+      "readmePath": "2520-count-the-digits-that-divide-a-number/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2520-count-the-digits-that-divide-a-number.py",
+          "path": "2520-count-the-digits-that-divide-a-number/2520-count-the-digits-that-divide-a-number.py",
+          "sha": "82b870bc6d01cef6562a52b92d3e9ac7fd5c76d9",
+          "lastSyncedAt": "2026-10-10T19:16:04.896Z"
         }
       ]
     },
