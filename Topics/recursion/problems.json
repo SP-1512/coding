@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "recursion",
+    "name": "Recursion",
+    "tagId": "31"
+  },
+  "updatedAt": "2026-10-10T18:56:00.432Z",
+  "problems": [
+    {
+      "frontendId": "326",
+      "title": "Power of Three",
+      "slug": "power-of-three",
+      "problemName": "0326-power-of-three",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/power-of-three/",
+      "folderPath": "0326-power-of-three/",
+      "readmePath": "0326-power-of-three/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0326-power-of-three.py",
+          "path": "0326-power-of-three/0326-power-of-three.py",
+          "sha": "8e8b608dc7a41c4c1d69742e6c5f4db9644af475",
+          "lastSyncedAt": "2026-10-10T18:56:00.432Z"
+        }
+      ]
+    }
+  ]
+}
