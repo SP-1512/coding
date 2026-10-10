@@ -5,8 +5,28 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-10T18:49:15.068Z",
+  "updatedAt": "2026-10-10T18:49:22.627Z",
   "problems": [
+    {
+      "frontendId": "54",
+      "title": "Spiral Matrix",
+      "slug": "spiral-matrix",
+      "problemName": "0054-spiral-matrix",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/spiral-matrix/",
+      "folderPath": "0054-spiral-matrix/",
+      "readmePath": "0054-spiral-matrix/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0054-spiral-matrix.py",
+          "path": "0054-spiral-matrix/0054-spiral-matrix.py",
+          "sha": "0cd1a2497386e9633aef12753f7b84ea9312de82",
+          "lastSyncedAt": "2026-10-10T18:49:22.627Z"
+        }
+      ]
+    },
     {
       "frontendId": "1450",
       "title": "Number of Students Doing Homework at a Given Time",
