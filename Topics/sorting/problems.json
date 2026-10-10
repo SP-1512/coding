@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-10T19:17:12.665Z",
+  "updatedAt": "2026-10-10T19:18:38.537Z",
   "problems": [
     {
       "frontendId": "169",
@@ -284,6 +284,26 @@
           "path": "1365-how-many-numbers-are-smaller-than-the-current-number/1365-how-many-numbers-are-smaller-than-the-current-number.py",
           "sha": "0d0c660fab0fc79542010124503a32441e7ff5d4",
           "lastSyncedAt": "2026-10-10T19:15:11.531Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1647",
+      "title": "Minimum Deletions to Make Character Frequencies Unique",
+      "slug": "minimum-deletions-to-make-character-frequencies-unique",
+      "problemName": "1647-minimum-deletions-to-make-character-frequencies-unique",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/",
+      "folderPath": "1647-minimum-deletions-to-make-character-frequencies-unique/",
+      "readmePath": "1647-minimum-deletions-to-make-character-frequencies-unique/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1647-minimum-deletions-to-make-character-frequencies-unique.cpp",
+          "path": "1647-minimum-deletions-to-make-character-frequencies-unique/1647-minimum-deletions-to-make-character-frequencies-unique.cpp",
+          "sha": "a5b92fc38f2fe44cc9c74bec2555a3a1d7ef4e4b",
+          "lastSyncedAt": "2026-10-10T19:18:38.537Z"
         }
       ]
     }
