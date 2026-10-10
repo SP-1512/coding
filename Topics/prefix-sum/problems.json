@@ -5,8 +5,28 @@
     "name": "Prefix Sum",
     "tagId": "61068"
   },
-  "updatedAt": "2026-10-10T19:13:05.515Z",
+  "updatedAt": "2026-10-10T19:15:36.171Z",
   "problems": [
+    {
+      "frontendId": "1480",
+      "title": "Running Sum of 1d Array",
+      "slug": "running-sum-of-1d-array",
+      "problemName": "1480-running-sum-of-1d-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/running-sum-of-1d-array/",
+      "folderPath": "1480-running-sum-of-1d-array/",
+      "readmePath": "1480-running-sum-of-1d-array/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1480-running-sum-of-1d-array.py",
+          "path": "1480-running-sum-of-1d-array/1480-running-sum-of-1d-array.py",
+          "sha": "e9825e01546e42f1c76c0ecbb010636a1aed3f9a",
+          "lastSyncedAt": "2026-10-10T19:15:36.171Z"
+        }
+      ]
+    },
     {
       "frontendId": "1732",
       "title": "Find the Highest Altitude",
