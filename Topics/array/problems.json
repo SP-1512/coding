@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-10T19:13:14.264Z",
+  "updatedAt": "2026-10-10T19:13:22.064Z",
   "problems": [
     {
       "frontendId": "54",
@@ -124,6 +124,26 @@
           "path": "0349-intersection-of-two-arrays/0349-intersection-of-two-arrays.py",
           "sha": "e789fd876f7c5d2712b4b605fc3fd07bab589fd3",
           "lastSyncedAt": "2026-10-10T19:11:10.206Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "442",
+      "title": "Find All Duplicates in an Array",
+      "slug": "find-all-duplicates-in-an-array",
+      "problemName": "0442-find-all-duplicates-in-an-array",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-all-duplicates-in-an-array/",
+      "folderPath": "0442-find-all-duplicates-in-an-array/",
+      "readmePath": "0442-find-all-duplicates-in-an-array/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0442-find-all-duplicates-in-an-array.py",
+          "path": "0442-find-all-duplicates-in-an-array/0442-find-all-duplicates-in-an-array.py",
+          "sha": "c95a9980672a67bba0dc5693823655588e05ec0e",
+          "lastSyncedAt": "2026-10-10T19:13:22.064Z"
         }
       ]
     },
