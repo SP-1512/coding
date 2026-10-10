@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-10T18:55:53.840Z",
+  "updatedAt": "2026-10-10T18:56:57.199Z",
   "problems": [
     {
       "frontendId": "58",
@@ -224,6 +224,26 @@
           "path": "1678-goal-parser-interpretation/1678-goal-parser-interpretation.py",
           "sha": "f176d46ad96bfbb7ee3d60ca859b4b35de594533",
           "lastSyncedAt": "2026-10-10T18:55:42.149Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1768",
+      "title": "Merge Strings Alternately",
+      "slug": "merge-strings-alternately",
+      "problemName": "1768-merge-strings-alternately",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/merge-strings-alternately/",
+      "folderPath": "1768-merge-strings-alternately/",
+      "readmePath": "1768-merge-strings-alternately/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1768-merge-strings-alternately.py",
+          "path": "1768-merge-strings-alternately/1768-merge-strings-alternately.py",
+          "sha": "4ec5d742ad77c984e1ad1d51a9c4ac8291fc3203",
+          "lastSyncedAt": "2026-10-10T18:56:57.199Z"
         }
       ]
     },
