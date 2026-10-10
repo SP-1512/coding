@@ -5,7 +5,7 @@
     "name": "Counting",
     "tagId": "61062"
   },
-  "updatedAt": "2026-10-10T19:11:52.014Z",
+  "updatedAt": "2026-10-10T19:12:13.643Z",
   "problems": [
     {
       "frontendId": "819",
@@ -64,6 +64,26 @@
           "path": "1876-substrings-of-size-three-with-distinct-characters/1876-substrings-of-size-three-with-distinct-characters.py",
           "sha": "f7449658256948ba47122c551c76c0ab1af4db04",
           "lastSyncedAt": "2026-10-10T19:08:23.018Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2529",
+      "title": "Maximum Count of Positive Integer and Negative Integer",
+      "slug": "maximum-count-of-positive-integer-and-negative-integer",
+      "problemName": "2529-maximum-count-of-positive-integer-and-negative-integer",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/",
+      "folderPath": "2529-maximum-count-of-positive-integer-and-negative-integer/",
+      "readmePath": "2529-maximum-count-of-positive-integer-and-negative-integer/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2529-maximum-count-of-positive-integer-and-negative-integer.py",
+          "path": "2529-maximum-count-of-positive-integer-and-negative-integer/2529-maximum-count-of-positive-integer-and-negative-integer.py",
+          "sha": "9b1816e029e299ae35cfe140af5b8f1d61ec557d",
+          "lastSyncedAt": "2026-10-10T19:12:13.643Z"
         }
       ]
     },
