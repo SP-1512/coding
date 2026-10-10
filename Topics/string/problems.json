@@ -5,8 +5,28 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-10T18:49:32.867Z",
+  "updatedAt": "2026-10-10T18:49:55.691Z",
   "problems": [
+    {
+      "frontendId": "151",
+      "title": "Reverse Words in a String",
+      "slug": "reverse-words-in-a-string",
+      "problemName": "0151-reverse-words-in-a-string",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-words-in-a-string/",
+      "folderPath": "0151-reverse-words-in-a-string/",
+      "readmePath": "0151-reverse-words-in-a-string/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0151-reverse-words-in-a-string.py",
+          "path": "0151-reverse-words-in-a-string/0151-reverse-words-in-a-string.py",
+          "sha": "d48d81f50eed69e12e302e3bc51c4927a4609c72",
+          "lastSyncedAt": "2026-10-10T18:49:55.691Z"
+        }
+      ]
+    },
     {
       "frontendId": "1662",
       "title": "Check If Two String Arrays are Equivalent",
