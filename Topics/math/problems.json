@@ -5,8 +5,28 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-10T18:57:23.743Z",
+  "updatedAt": "2026-10-10T18:58:28.171Z",
   "problems": [
+    {
+      "frontendId": "204",
+      "title": "Count Primes",
+      "slug": "count-primes",
+      "problemName": "0204-count-primes",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/count-primes/",
+      "folderPath": "0204-count-primes/",
+      "readmePath": "0204-count-primes/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0204-count-primes.py",
+          "path": "0204-count-primes/0204-count-primes.py",
+          "sha": "9cfdbecf380a79e6b1249e17eae3a092059d9eae",
+          "lastSyncedAt": "2026-10-10T18:58:28.171Z"
+        }
+      ]
+    },
     {
       "frontendId": "231",
       "title": "Power of Two",
