@@ -5,8 +5,28 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-10-10T19:18:00.011Z",
+  "updatedAt": "2026-10-10T19:18:05.115Z",
   "problems": [
+    {
+      "frontendId": "178",
+      "title": "Rank Scores",
+      "slug": "rank-scores",
+      "problemName": "0178-rank-scores",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/rank-scores/",
+      "folderPath": "0178-rank-scores/",
+      "readmePath": "0178-rank-scores/README.md",
+      "solutions": [
+        {
+          "language": "Oracle",
+          "extension": ".sql",
+          "filename": "0178-rank-scores.sql",
+          "path": "0178-rank-scores/0178-rank-scores.sql",
+          "sha": "0fe47d6fb95d98f6aac885774531c8d9f3b416b6",
+          "lastSyncedAt": "2026-10-10T19:18:05.115Z"
+        }
+      ]
+    },
     {
       "frontendId": "185",
       "title": "Department Top Three Salaries",
