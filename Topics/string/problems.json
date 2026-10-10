@@ -5,8 +5,28 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-10T18:38:50.338Z",
+  "updatedAt": "2026-10-10T18:38:56.343Z",
   "problems": [
+    {
+      "frontendId": "1662",
+      "title": "Check If Two String Arrays are Equivalent",
+      "slug": "check-if-two-string-arrays-are-equivalent",
+      "problemName": "1662-check-if-two-string-arrays-are-equivalent",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/",
+      "folderPath": "1662-check-if-two-string-arrays-are-equivalent/",
+      "readmePath": "1662-check-if-two-string-arrays-are-equivalent/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1662-check-if-two-string-arrays-are-equivalent.py",
+          "path": "1662-check-if-two-string-arrays-are-equivalent/1662-check-if-two-string-arrays-are-equivalent.py",
+          "sha": "315226d785dc284fe7f4e0142d1ec71f17978697",
+          "lastSyncedAt": "2026-10-10T18:38:56.343Z"
+        }
+      ]
+    },
     {
       "frontendId": "2810",
       "title": "Faulty Keyboard",
