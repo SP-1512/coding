@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-10T18:58:28.171Z",
+  "updatedAt": "2026-10-10T19:00:39.043Z",
   "problems": [
     {
       "frontendId": "204",
@@ -44,6 +44,26 @@
           "path": "0231-power-of-two/0231-power-of-two.py",
           "sha": "8517f80ef8aab747de3b4b457af6bf199a4c92f2",
           "lastSyncedAt": "2026-10-10T18:56:19.524Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "263",
+      "title": "Ugly Number",
+      "slug": "ugly-number",
+      "problemName": "0263-ugly-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/ugly-number/",
+      "folderPath": "0263-ugly-number/",
+      "readmePath": "0263-ugly-number/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0263-ugly-number.py",
+          "path": "0263-ugly-number/0263-ugly-number.py",
+          "sha": "5068bb43eabee75295734294c84442e16b11d75c",
+          "lastSyncedAt": "2026-10-10T19:00:39.043Z"
         }
       ]
     },
