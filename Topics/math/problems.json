@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-10T19:00:39.043Z",
+  "updatedAt": "2026-10-10T19:01:39.346Z",
   "problems": [
     {
       "frontendId": "204",
@@ -144,6 +144,26 @@
           "path": "1304-find-n-unique-integers-sum-up-to-zero/1304-find-n-unique-integers-sum-up-to-zero.py",
           "sha": "f36a7d720fbdfa2cb8f7ef562ab3f9d8c8a7a662",
           "lastSyncedAt": "2026-10-10T18:54:37.432Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1512",
+      "title": "Number of Good Pairs",
+      "slug": "number-of-good-pairs",
+      "problemName": "1512-number-of-good-pairs",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-good-pairs/",
+      "folderPath": "1512-number-of-good-pairs/",
+      "readmePath": "1512-number-of-good-pairs/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1512-number-of-good-pairs.py",
+          "path": "1512-number-of-good-pairs/1512-number-of-good-pairs.py",
+          "sha": "1b8f22e9496eaabc8c80c3b9431e8be816d34700",
+          "lastSyncedAt": "2026-10-10T19:01:39.346Z"
         }
       ]
     },
