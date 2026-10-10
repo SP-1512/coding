@@ -5,8 +5,28 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-10T18:54:44.757Z",
+  "updatedAt": "2026-10-10T18:55:11.978Z",
   "problems": [
+    {
+      "frontendId": "771",
+      "title": "Jewels and Stones",
+      "slug": "jewels-and-stones",
+      "problemName": "0771-jewels-and-stones",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/jewels-and-stones/",
+      "folderPath": "0771-jewels-and-stones/",
+      "readmePath": "0771-jewels-and-stones/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0771-jewels-and-stones.py",
+          "path": "0771-jewels-and-stones/0771-jewels-and-stones.py",
+          "sha": "b10e348c3c3394450f7e8060deeefc53fabf6df5",
+          "lastSyncedAt": "2026-10-10T18:55:11.978Z"
+        }
+      ]
+    },
     {
       "frontendId": "1876",
       "title": "Substrings of Size Three with Distinct Characters",
