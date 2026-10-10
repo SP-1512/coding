@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-10T19:14:22.004Z",
+  "updatedAt": "2026-10-10T19:16:09.994Z",
   "problems": [
     {
       "frontendId": "58",
@@ -144,6 +144,26 @@
           "path": "0387-first-unique-character-in-a-string/0387-first-unique-character-in-a-string.py",
           "sha": "5f620ecd76eb7b6e8e0833cbf2660f12774d9320",
           "lastSyncedAt": "2026-10-10T19:14:22.004Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "412",
+      "title": "Fizz Buzz",
+      "slug": "fizz-buzz",
+      "problemName": "0412-fizz-buzz",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/fizz-buzz/",
+      "folderPath": "0412-fizz-buzz/",
+      "readmePath": "0412-fizz-buzz/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0412-fizz-buzz.py",
+          "path": "0412-fizz-buzz/0412-fizz-buzz.py",
+          "sha": "472dc15ab803ebfc4d9763ec2e1d7983c8a9f69f",
+          "lastSyncedAt": "2026-10-10T19:16:09.994Z"
         }
       ]
     },
