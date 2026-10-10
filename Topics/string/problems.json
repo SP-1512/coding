@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-10T18:55:35.730Z",
+  "updatedAt": "2026-10-10T18:55:42.149Z",
   "problems": [
     {
       "frontendId": "58",
@@ -184,6 +184,26 @@
           "path": "1662-check-if-two-string-arrays-are-equivalent/1662-check-if-two-string-arrays-are-equivalent.py",
           "sha": "315226d785dc284fe7f4e0142d1ec71f17978697",
           "lastSyncedAt": "2026-10-10T18:54:01.622Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1678",
+      "title": "Goal Parser Interpretation",
+      "slug": "goal-parser-interpretation",
+      "problemName": "1678-goal-parser-interpretation",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/goal-parser-interpretation/",
+      "folderPath": "1678-goal-parser-interpretation/",
+      "readmePath": "1678-goal-parser-interpretation/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1678-goal-parser-interpretation.py",
+          "path": "1678-goal-parser-interpretation/1678-goal-parser-interpretation.py",
+          "sha": "f176d46ad96bfbb7ee3d60ca859b4b35de594533",
+          "lastSyncedAt": "2026-10-10T18:55:42.149Z"
         }
       ]
     },
