@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-10T18:57:29.143Z",
+  "updatedAt": "2026-10-10T18:57:37.202Z",
   "problems": [
     {
       "frontendId": "54",
@@ -244,6 +244,26 @@
           "path": "2011-final-value-of-variable-after-performing-operations/2011-final-value-of-variable-after-performing-operations.py",
           "sha": "c0c6aee8950058ce327e2ffe2d9315ccc8721447",
           "lastSyncedAt": "2026-10-10T18:54:09.598Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2319",
+      "title": "Check if Matrix Is X-Matrix",
+      "slug": "check-if-matrix-is-x-matrix",
+      "problemName": "2319-check-if-matrix-is-x-matrix",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/check-if-matrix-is-x-matrix/",
+      "folderPath": "2319-check-if-matrix-is-x-matrix/",
+      "readmePath": "2319-check-if-matrix-is-x-matrix/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2319-check-if-matrix-is-x-matrix.py",
+          "path": "2319-check-if-matrix-is-x-matrix/2319-check-if-matrix-is-x-matrix.py",
+          "sha": "54d86c4f24a9530d2ccd5783051e7d1f527005d2",
+          "lastSyncedAt": "2026-10-10T18:57:37.202Z"
         }
       ]
     },
