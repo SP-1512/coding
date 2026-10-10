@@ -5,7 +5,7 @@
     "name": "Heap (Priority Queue)",
     "tagId": "61050"
   },
-  "updatedAt": "2026-10-10T18:57:14.042Z",
+  "updatedAt": "2026-10-10T19:10:39.956Z",
   "problems": [
     {
       "frontendId": "506",
@@ -23,7 +23,7 @@
           "filename": "0506-relative-ranks.py",
           "path": "0506-relative-ranks/0506-relative-ranks.py",
           "sha": "ff17169ce2d0dcfa5cab53e84af8b1e1fe05809b",
-          "lastSyncedAt": "2026-10-10T18:57:14.042Z"
+          "lastSyncedAt": "2026-10-10T19:10:39.956Z"
         }
       ]
     }
