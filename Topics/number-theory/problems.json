@@ -5,7 +5,7 @@
     "name": "Number Theory",
     "tagId": "61067"
   },
-  "updatedAt": "2026-10-10T19:11:35.004Z",
+  "updatedAt": "2026-10-10T19:12:39.014Z",
   "problems": [
     {
       "frontendId": "204",
@@ -24,6 +24,26 @@
           "path": "0204-count-primes/0204-count-primes.py",
           "sha": "9cfdbecf380a79e6b1249e17eae3a092059d9eae",
           "lastSyncedAt": "2026-10-10T19:11:35.004Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "258",
+      "title": "Add Digits",
+      "slug": "add-digits",
+      "problemName": "0258-add-digits",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/add-digits/",
+      "folderPath": "0258-add-digits/",
+      "readmePath": "0258-add-digits/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0258-add-digits.py",
+          "path": "0258-add-digits/0258-add-digits.py",
+          "sha": "f8c6cf16a0b08d4aaf8797a7288e5ba643f3180c",
+          "lastSyncedAt": "2026-10-10T19:12:39.014Z"
         }
       ]
     },
