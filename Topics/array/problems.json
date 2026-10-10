@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-10T19:12:47.491Z",
+  "updatedAt": "2026-10-10T19:12:53.519Z",
   "problems": [
     {
       "frontendId": "54",
@@ -284,6 +284,26 @@
           "path": "1304-find-n-unique-integers-sum-up-to-zero/1304-find-n-unique-integers-sum-up-to-zero.py",
           "sha": "f36a7d720fbdfa2cb8f7ef562ab3f9d8c8a7a662",
           "lastSyncedAt": "2026-10-10T19:08:43.819Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1431",
+      "title": "Kids With the Greatest Number of Candies",
+      "slug": "kids-with-the-greatest-number-of-candies",
+      "problemName": "1431-kids-with-the-greatest-number-of-candies",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/",
+      "folderPath": "1431-kids-with-the-greatest-number-of-candies/",
+      "readmePath": "1431-kids-with-the-greatest-number-of-candies/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1431-kids-with-the-greatest-number-of-candies.py",
+          "path": "1431-kids-with-the-greatest-number-of-candies/1431-kids-with-the-greatest-number-of-candies.py",
+          "sha": "110aafd0033fa0c9efa2f9b977768643cc449b39",
+          "lastSyncedAt": "2026-10-10T19:12:53.519Z"
         }
       ]
     },
