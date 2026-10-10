@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "string",
+    "name": "String",
+    "tagId": "10"
+  },
+  "updatedAt": "2026-10-10T18:38:16.996Z",
+  "problems": [
+    {
+      "frontendId": "3110",
+      "title": "Score of a String",
+      "slug": "score-of-a-string",
+      "problemName": "3110-score-of-a-string",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/score-of-a-string/",
+      "folderPath": "3110-score-of-a-string/",
+      "readmePath": "3110-score-of-a-string/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3110-score-of-a-string.py",
+          "path": "3110-score-of-a-string/3110-score-of-a-string.py",
+          "sha": "8bf4c8ba21ab32be883e902ec5aa2aef68833441",
+          "lastSyncedAt": "2026-10-10T18:38:16.996Z"
+        }
+      ]
+    }
+  ]
+}
