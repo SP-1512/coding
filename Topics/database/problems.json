@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "database",
+    "name": "Database",
+    "tagId": "61043"
+  },
+  "updatedAt": "2026-10-10T19:17:53.397Z",
+  "problems": [
+    {
+      "frontendId": "1204",
+      "title": "Last Person to Fit in the Bus",
+      "slug": "last-person-to-fit-in-the-bus",
+      "problemName": "1204-last-person-to-fit-in-the-bus",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/last-person-to-fit-in-the-bus/",
+      "folderPath": "1204-last-person-to-fit-in-the-bus/",
+      "readmePath": "1204-last-person-to-fit-in-the-bus/README.md",
+      "solutions": [
+        {
+          "language": "Oracle",
+          "extension": ".sql",
+          "filename": "1204-last-person-to-fit-in-the-bus.sql",
+          "path": "1204-last-person-to-fit-in-the-bus/1204-last-person-to-fit-in-the-bus.sql",
+          "sha": "4586ba2f3bce2c4ea603b13c9d6ab2ded9f7cd6f",
+          "lastSyncedAt": "2026-10-10T19:17:53.397Z"
+        }
+      ]
+    }
+  ]
+}
