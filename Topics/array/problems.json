@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-10T18:57:43.959Z",
+  "updatedAt": "2026-10-10T18:57:51.007Z",
   "problems": [
     {
       "frontendId": "54",
@@ -44,6 +44,26 @@
           "path": "0121-best-time-to-buy-and-sell-stock/0121-best-time-to-buy-and-sell-stock.py",
           "sha": "14e26346be778503a84406a8632c774891af91ff",
           "lastSyncedAt": "2026-10-10T18:57:29.143Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "448",
+      "title": "Find All Numbers Disappeared in an Array",
+      "slug": "find-all-numbers-disappeared-in-an-array",
+      "problemName": "0448-find-all-numbers-disappeared-in-an-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/",
+      "folderPath": "0448-find-all-numbers-disappeared-in-an-array/",
+      "readmePath": "0448-find-all-numbers-disappeared-in-an-array/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0448-find-all-numbers-disappeared-in-an-array.py",
+          "path": "0448-find-all-numbers-disappeared-in-an-array/0448-find-all-numbers-disappeared-in-an-array.py",
+          "sha": "b3c6ac6a6567bd2a0f6f5a3448e0efd247748d95",
+          "lastSyncedAt": "2026-10-10T18:57:51.007Z"
         }
       ]
     },
