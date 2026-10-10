@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-10T19:12:53.519Z",
+  "updatedAt": "2026-10-10T19:12:59.007Z",
   "problems": [
     {
       "frontendId": "54",
@@ -404,6 +404,26 @@
           "path": "1662-check-if-two-string-arrays-are-equivalent/1662-check-if-two-string-arrays-are-equivalent.py",
           "sha": "315226d785dc284fe7f4e0142d1ec71f17978697",
           "lastSyncedAt": "2026-10-10T19:07:58.548Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1773",
+      "title": "Count Items Matching a Rule",
+      "slug": "count-items-matching-a-rule",
+      "problemName": "1773-count-items-matching-a-rule",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/count-items-matching-a-rule/",
+      "folderPath": "1773-count-items-matching-a-rule/",
+      "readmePath": "1773-count-items-matching-a-rule/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1773-count-items-matching-a-rule.py",
+          "path": "1773-count-items-matching-a-rule/1773-count-items-matching-a-rule.py",
+          "sha": "621de7bc646cb2b405e02ab91e3a026e65fb9514",
+          "lastSyncedAt": "2026-10-10T19:12:59.007Z"
         }
       ]
     },
