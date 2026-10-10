@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-10T18:54:54.392Z",
+  "updatedAt": "2026-10-10T18:54:59.708Z",
   "problems": [
     {
       "frontendId": "1304",
@@ -64,6 +64,26 @@
           "path": "2469-convert-the-temperature/2469-convert-the-temperature.py",
           "sha": "20a813fa5f8ef368373a12d0f08c6a97ae09f8ca",
           "lastSyncedAt": "2026-10-10T18:54:54.392Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2894",
+      "title": "Divisible and Non-divisible Sums Difference",
+      "slug": "divisible-and-non-divisible-sums-difference",
+      "problemName": "2894-divisible-and-non-divisible-sums-difference",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/",
+      "folderPath": "2894-divisible-and-non-divisible-sums-difference/",
+      "readmePath": "2894-divisible-and-non-divisible-sums-difference/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2894-divisible-and-non-divisible-sums-difference.py",
+          "path": "2894-divisible-and-non-divisible-sums-difference/2894-divisible-and-non-divisible-sums-difference.py",
+          "sha": "dfb10ffc96b919e7dfaf5937dd266e08584c05dd",
+          "lastSyncedAt": "2026-10-10T18:54:59.708Z"
         }
       ]
     }
