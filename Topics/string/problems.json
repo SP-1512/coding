@@ -5,8 +5,28 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-10T18:38:16.996Z",
+  "updatedAt": "2026-10-10T18:38:23.731Z",
   "problems": [
+    {
+      "frontendId": "2810",
+      "title": "Faulty Keyboard",
+      "slug": "faulty-keyboard",
+      "problemName": "2810-faulty-keyboard",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/faulty-keyboard/",
+      "folderPath": "2810-faulty-keyboard/",
+      "readmePath": "2810-faulty-keyboard/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2810-faulty-keyboard.py",
+          "path": "2810-faulty-keyboard/2810-faulty-keyboard.py",
+          "sha": "33d69cb8f302761b07fc83f94be05a10ce191d9e",
+          "lastSyncedAt": "2026-10-10T18:38:23.731Z"
+        }
+      ]
+    },
     {
       "frontendId": "3110",
       "title": "Score of a String",
