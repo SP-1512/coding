@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-10T18:50:05.114Z",
+  "updatedAt": "2026-10-10T18:50:17.482Z",
   "problems": [
     {
       "frontendId": "58",
@@ -64,6 +64,26 @@
           "path": "1662-check-if-two-string-arrays-are-equivalent/1662-check-if-two-string-arrays-are-equivalent.py",
           "sha": "315226d785dc284fe7f4e0142d1ec71f17978697",
           "lastSyncedAt": "2026-10-10T18:49:03.315Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1816",
+      "title": "Truncate Sentence",
+      "slug": "truncate-sentence",
+      "problemName": "1816-truncate-sentence",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/truncate-sentence/",
+      "folderPath": "1816-truncate-sentence/",
+      "readmePath": "1816-truncate-sentence/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1816-truncate-sentence.py",
+          "path": "1816-truncate-sentence/1816-truncate-sentence.py",
+          "sha": "b6f5f9c45af7970c5ca8150adcb29578c65e287c",
+          "lastSyncedAt": "2026-10-10T18:50:17.482Z"
         }
       ]
     },
