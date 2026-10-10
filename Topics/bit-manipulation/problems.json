@@ -5,7 +5,7 @@
     "name": "Bit Manipulation",
     "tagId": "19"
   },
-  "updatedAt": "2026-10-10T19:11:19.656Z",
+  "updatedAt": "2026-10-10T19:12:00.016Z",
   "problems": [
     {
       "frontendId": "231",
@@ -43,7 +43,7 @@
           "filename": "0287-find-the-duplicate-number.py",
           "path": "0287-find-the-duplicate-number/0287-find-the-duplicate-number.py",
           "sha": "3c5badd3d3205c9cc3e8a8f916f4b43ab3eac542",
-          "lastSyncedAt": "2026-10-10T19:03:39.050Z"
+          "lastSyncedAt": "2026-10-10T19:12:00.016Z"
         }
       ]
     },
