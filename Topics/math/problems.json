@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-10T19:16:50.012Z",
+  "updatedAt": "2026-10-10T19:16:55.009Z",
   "problems": [
     {
       "frontendId": "66",
@@ -184,6 +184,26 @@
           "path": "0507-perfect-number/0507-perfect-number.cpp",
           "sha": "0dda60543e4a11583a2e6c4b5b2fec0132cfd6cc",
           "lastSyncedAt": "2026-10-10T19:16:50.012Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "509",
+      "title": "Fibonacci Number",
+      "slug": "fibonacci-number",
+      "problemName": "0509-fibonacci-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/fibonacci-number/",
+      "folderPath": "0509-fibonacci-number/",
+      "readmePath": "0509-fibonacci-number/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0509-fibonacci-number.cpp",
+          "path": "0509-fibonacci-number/0509-fibonacci-number.cpp",
+          "sha": "40a0e859287ad5ec17ff922eb68941392beea09e",
+          "lastSyncedAt": "2026-10-10T19:16:55.009Z"
         }
       ]
     },
