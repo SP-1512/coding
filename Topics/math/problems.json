@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-10T19:16:18.641Z",
+  "updatedAt": "2026-10-10T19:16:23.782Z",
   "problems": [
     {
       "frontendId": "66",
@@ -204,6 +204,26 @@
           "path": "1304-find-n-unique-integers-sum-up-to-zero/1304-find-n-unique-integers-sum-up-to-zero.py",
           "sha": "f36a7d720fbdfa2cb8f7ef562ab3f9d8c8a7a662",
           "lastSyncedAt": "2026-10-10T19:08:43.819Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1342",
+      "title": "Number of Steps to Reduce a Number to Zero",
+      "slug": "number-of-steps-to-reduce-a-number-to-zero",
+      "problemName": "1342-number-of-steps-to-reduce-a-number-to-zero",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/",
+      "folderPath": "1342-number-of-steps-to-reduce-a-number-to-zero/",
+      "readmePath": "1342-number-of-steps-to-reduce-a-number-to-zero/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "1342-number-of-steps-to-reduce-a-number-to-zero.cpp",
+          "path": "1342-number-of-steps-to-reduce-a-number-to-zero/1342-number-of-steps-to-reduce-a-number-to-zero.cpp",
+          "sha": "6a8f87f0b93866feaf9a92ea3455a0246d045fc7",
+          "lastSyncedAt": "2026-10-10T19:16:23.782Z"
         }
       ]
     },
