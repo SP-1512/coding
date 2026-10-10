@@ -5,7 +5,7 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-10-10T19:19:00.762Z",
+  "updatedAt": "2026-10-10T19:19:05.523Z",
   "problems": [
     {
       "frontendId": "175",
@@ -124,6 +124,26 @@
           "path": "0185-department-top-three-salaries/0185-department-top-three-salaries.sql",
           "sha": "e482fc2bf742d852e8547ab79919cc72511f277e",
           "lastSyncedAt": "2026-10-10T19:18:00.011Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "577",
+      "title": "Employee Bonus",
+      "slug": "employee-bonus",
+      "problemName": "0577-employee-bonus",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/employee-bonus/",
+      "folderPath": "0577-employee-bonus/",
+      "readmePath": "0577-employee-bonus/README.md",
+      "solutions": [
+        {
+          "language": "Oracle",
+          "extension": ".sql",
+          "filename": "0577-employee-bonus.sql",
+          "path": "0577-employee-bonus/0577-employee-bonus.sql",
+          "sha": "739f5e85c3dcc0ffb6f233580b19c2b1e4803a6b",
+          "lastSyncedAt": "2026-10-10T19:19:05.523Z"
         }
       ]
     },
