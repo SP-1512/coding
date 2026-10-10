@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-10T18:55:24.964Z",
+  "updatedAt": "2026-10-10T18:55:29.699Z",
   "problems": [
     {
       "frontendId": "58",
@@ -24,6 +24,26 @@
           "path": "0058-length-of-last-word/0058-length-of-last-word.py",
           "sha": "34acb72e6a962b6b2673d96ba02b62c7835f3c27",
           "lastSyncedAt": "2026-10-10T18:54:35.243Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "125",
+      "title": "Valid Palindrome",
+      "slug": "valid-palindrome",
+      "problemName": "0125-valid-palindrome",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-palindrome/",
+      "folderPath": "0125-valid-palindrome/",
+      "readmePath": "0125-valid-palindrome/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0125-valid-palindrome.py",
+          "path": "0125-valid-palindrome/0125-valid-palindrome.py",
+          "sha": "203d2cd7acabb3fcb112e0e3a85314e90009e369",
+          "lastSyncedAt": "2026-10-10T18:55:29.699Z"
         }
       ]
     },
