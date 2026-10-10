@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-10T18:38:23.731Z",
+  "updatedAt": "2026-10-10T18:38:50.338Z",
   "problems": [
     {
       "frontendId": "2810",
@@ -44,6 +44,26 @@
           "path": "3110-score-of-a-string/3110-score-of-a-string.py",
           "sha": "8bf4c8ba21ab32be883e902ec5aa2aef68833441",
           "lastSyncedAt": "2026-10-10T18:38:16.996Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3498",
+      "title": "Reverse Degree of a String",
+      "slug": "reverse-degree-of-a-string",
+      "problemName": "3498-reverse-degree-of-a-string",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-degree-of-a-string/",
+      "folderPath": "3498-reverse-degree-of-a-string/",
+      "readmePath": "3498-reverse-degree-of-a-string/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3498-reverse-degree-of-a-string.py",
+          "path": "3498-reverse-degree-of-a-string/3498-reverse-degree-of-a-string.py",
+          "sha": "0e3410cf155be467e12de51aaf431d01e6fd19c5",
+          "lastSyncedAt": "2026-10-10T18:38:50.338Z"
         }
       ]
     }
