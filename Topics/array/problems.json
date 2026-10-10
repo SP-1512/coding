@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-10T19:12:59.007Z",
+  "updatedAt": "2026-10-10T19:13:05.515Z",
   "problems": [
     {
       "frontendId": "54",
@@ -404,6 +404,26 @@
           "path": "1662-check-if-two-string-arrays-are-equivalent/1662-check-if-two-string-arrays-are-equivalent.py",
           "sha": "315226d785dc284fe7f4e0142d1ec71f17978697",
           "lastSyncedAt": "2026-10-10T19:07:58.548Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1732",
+      "title": "Find the Highest Altitude",
+      "slug": "find-the-highest-altitude",
+      "problemName": "1732-find-the-highest-altitude",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-highest-altitude/",
+      "folderPath": "1732-find-the-highest-altitude/",
+      "readmePath": "1732-find-the-highest-altitude/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1732-find-the-highest-altitude.py",
+          "path": "1732-find-the-highest-altitude/1732-find-the-highest-altitude.py",
+          "sha": "2b7e3d7386390a3ba5b0e01d0887d6bd28273bd2",
+          "lastSyncedAt": "2026-10-10T19:13:05.515Z"
         }
       ]
     },
