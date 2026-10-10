@@ -5,7 +5,7 @@
     "name": "Sieve Theory",
     "tagId": "122048"
   },
-  "updatedAt": "2026-10-10T19:11:35.004Z",
+  "updatedAt": "2026-10-10T19:14:40.079Z",
   "problems": [
     {
       "frontendId": "204",
@@ -24,6 +24,26 @@
           "path": "0204-count-primes/0204-count-primes.py",
           "sha": "9cfdbecf380a79e6b1249e17eae3a092059d9eae",
           "lastSyncedAt": "2026-10-10T19:11:35.004Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1952",
+      "title": "Three Divisors",
+      "slug": "three-divisors",
+      "problemName": "1952-three-divisors",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/three-divisors/",
+      "folderPath": "1952-three-divisors/",
+      "readmePath": "1952-three-divisors/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1952-three-divisors.py",
+          "path": "1952-three-divisors/1952-three-divisors.py",
+          "sha": "8d8661c60cd14c44b6a2c3b080e82025679841e8",
+          "lastSyncedAt": "2026-10-10T19:14:40.079Z"
         }
       ]
     }
