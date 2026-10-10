@@ -5,7 +5,7 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-10-10T19:18:29.004Z",
+  "updatedAt": "2026-10-10T19:18:33.838Z",
   "problems": [
     {
       "frontendId": "178",
@@ -164,6 +164,26 @@
           "path": "1204-last-person-to-fit-in-the-bus/1204-last-person-to-fit-in-the-bus.sql",
           "sha": "4586ba2f3bce2c4ea603b13c9d6ab2ded9f7cd6f",
           "lastSyncedAt": "2026-10-10T19:17:53.397Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1633",
+      "title": "Percentage of Users Attended a Contest",
+      "slug": "percentage-of-users-attended-a-contest",
+      "problemName": "1633-percentage-of-users-attended-a-contest",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/percentage-of-users-attended-a-contest/",
+      "folderPath": "1633-percentage-of-users-attended-a-contest/",
+      "readmePath": "1633-percentage-of-users-attended-a-contest/README.md",
+      "solutions": [
+        {
+          "language": "Oracle",
+          "extension": ".sql",
+          "filename": "1633-percentage-of-users-attended-a-contest.sql",
+          "path": "1633-percentage-of-users-attended-a-contest/1633-percentage-of-users-attended-a-contest.sql",
+          "sha": "e660057f67ce4fde9bb304808356b4fa64e414db",
+          "lastSyncedAt": "2026-10-10T19:18:33.838Z"
         }
       ]
     }
