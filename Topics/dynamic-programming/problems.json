@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-10T19:10:51.033Z",
+  "updatedAt": "2026-10-10T19:16:55.009Z",
   "problems": [
     {
       "frontendId": "121",
@@ -24,6 +24,26 @@
           "path": "0121-best-time-to-buy-and-sell-stock/0121-best-time-to-buy-and-sell-stock.py",
           "sha": "14e26346be778503a84406a8632c774891af91ff",
           "lastSyncedAt": "2026-10-10T19:10:51.033Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "509",
+      "title": "Fibonacci Number",
+      "slug": "fibonacci-number",
+      "problemName": "0509-fibonacci-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/fibonacci-number/",
+      "folderPath": "0509-fibonacci-number/",
+      "readmePath": "0509-fibonacci-number/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0509-fibonacci-number.cpp",
+          "path": "0509-fibonacci-number/0509-fibonacci-number.cpp",
+          "sha": "40a0e859287ad5ec17ff922eb68941392beea09e",
+          "lastSyncedAt": "2026-10-10T19:16:55.009Z"
         }
       ]
     }
