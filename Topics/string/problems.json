@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-10T18:50:17.482Z",
+  "updatedAt": "2026-10-10T18:50:23.824Z",
   "problems": [
     {
       "frontendId": "58",
@@ -184,6 +184,26 @@
           "path": "3498-reverse-degree-of-a-string/3498-reverse-degree-of-a-string.py",
           "sha": "0e3410cf155be467e12de51aaf431d01e6fd19c5",
           "lastSyncedAt": "2026-10-10T18:48:59.478Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3541",
+      "title": "Find Most Frequent Vowel and Consonant",
+      "slug": "find-most-frequent-vowel-and-consonant",
+      "problemName": "3541-find-most-frequent-vowel-and-consonant",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-most-frequent-vowel-and-consonant/",
+      "folderPath": "3541-find-most-frequent-vowel-and-consonant/",
+      "readmePath": "3541-find-most-frequent-vowel-and-consonant/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3541-find-most-frequent-vowel-and-consonant.py",
+          "path": "3541-find-most-frequent-vowel-and-consonant/3541-find-most-frequent-vowel-and-consonant.py",
+          "sha": "15e418976c4ee115b28020be8f8baf94c434022a",
+          "lastSyncedAt": "2026-10-10T18:50:23.824Z"
         }
       ]
     }
