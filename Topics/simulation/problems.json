@@ -5,8 +5,28 @@
     "name": "Simulation",
     "tagId": "61055"
   },
-  "updatedAt": "2026-10-10T18:38:23.731Z",
+  "updatedAt": "2026-10-10T18:38:34.107Z",
   "problems": [
+    {
+      "frontendId": "2169",
+      "title": "Count Operations to Obtain Zero",
+      "slug": "count-operations-to-obtain-zero",
+      "problemName": "2169-count-operations-to-obtain-zero",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/count-operations-to-obtain-zero/",
+      "folderPath": "2169-count-operations-to-obtain-zero/",
+      "readmePath": "2169-count-operations-to-obtain-zero/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2169-count-operations-to-obtain-zero.py",
+          "path": "2169-count-operations-to-obtain-zero/2169-count-operations-to-obtain-zero.py",
+          "sha": "962b01207cd9248dce50237b1a62912ee53613b8",
+          "lastSyncedAt": "2026-10-10T18:38:34.107Z"
+        }
+      ]
+    },
     {
       "frontendId": "2810",
       "title": "Faulty Keyboard",
