@@ -5,7 +5,7 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-10-10T19:18:24.075Z",
+  "updatedAt": "2026-10-10T19:18:29.004Z",
   "problems": [
     {
       "frontendId": "178",
@@ -24,6 +24,26 @@
           "path": "0178-rank-scores/0178-rank-scores.sql",
           "sha": "0fe47d6fb95d98f6aac885774531c8d9f3b416b6",
           "lastSyncedAt": "2026-10-10T19:18:05.115Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "183",
+      "title": "Customers Who Never Order",
+      "slug": "customers-who-never-order",
+      "problemName": "0183-customers-who-never-order",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/customers-who-never-order/",
+      "folderPath": "0183-customers-who-never-order/",
+      "readmePath": "0183-customers-who-never-order/README.md",
+      "solutions": [
+        {
+          "language": "Oracle",
+          "extension": ".sql",
+          "filename": "0183-customers-who-never-order.sql",
+          "path": "0183-customers-who-never-order/0183-customers-who-never-order.sql",
+          "sha": "4ece5abc66639246cdeaa8fc069fd136ded8d543",
+          "lastSyncedAt": "2026-10-10T19:18:29.004Z"
         }
       ]
     },
