@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-10T18:55:04.549Z",
+  "updatedAt": "2026-10-10T18:55:11.978Z",
   "problems": [
     {
       "frontendId": "58",
@@ -44,6 +44,26 @@
           "path": "0151-reverse-words-in-a-string/0151-reverse-words-in-a-string.py",
           "sha": "d48d81f50eed69e12e302e3bc51c4927a4609c72",
           "lastSyncedAt": "2026-10-10T18:54:31.449Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "771",
+      "title": "Jewels and Stones",
+      "slug": "jewels-and-stones",
+      "problemName": "0771-jewels-and-stones",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/jewels-and-stones/",
+      "folderPath": "0771-jewels-and-stones/",
+      "readmePath": "0771-jewels-and-stones/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0771-jewels-and-stones.py",
+          "path": "0771-jewels-and-stones/0771-jewels-and-stones.py",
+          "sha": "b10e348c3c3394450f7e8060deeefc53fabf6df5",
+          "lastSyncedAt": "2026-10-10T18:55:11.978Z"
         }
       ]
     },
