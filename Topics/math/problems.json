@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-10T18:56:35.901Z",
+  "updatedAt": "2026-10-10T18:57:23.743Z",
   "problems": [
     {
       "frontendId": "231",
@@ -64,6 +64,26 @@
           "path": "0342-power-of-four/0342-power-of-four.py",
           "sha": "7f3b72691f9408dec70f1680ae7ed8862d7e3634",
           "lastSyncedAt": "2026-10-10T18:56:09.279Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "728",
+      "title": "Self Dividing Numbers",
+      "slug": "self-dividing-numbers",
+      "problemName": "0728-self-dividing-numbers",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/self-dividing-numbers/",
+      "folderPath": "0728-self-dividing-numbers/",
+      "readmePath": "0728-self-dividing-numbers/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0728-self-dividing-numbers.py",
+          "path": "0728-self-dividing-numbers/0728-self-dividing-numbers.py",
+          "sha": "6990623716b992fa750227af10da61ff3982c680",
+          "lastSyncedAt": "2026-10-10T18:57:23.743Z"
         }
       ]
     },
