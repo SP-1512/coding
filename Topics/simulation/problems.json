@@ -5,7 +5,7 @@
     "name": "Simulation",
     "tagId": "61055"
   },
-  "updatedAt": "2026-10-10T19:08:17.011Z",
+  "updatedAt": "2026-10-10T19:12:39.014Z",
   "problems": [
     {
       "frontendId": "54",
@@ -24,6 +24,26 @@
           "path": "0054-spiral-matrix/0054-spiral-matrix.py",
           "sha": "0cd1a2497386e9633aef12753f7b84ea9312de82",
           "lastSyncedAt": "2026-10-10T19:08:17.011Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "258",
+      "title": "Add Digits",
+      "slug": "add-digits",
+      "problemName": "0258-add-digits",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/add-digits/",
+      "folderPath": "0258-add-digits/",
+      "readmePath": "0258-add-digits/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0258-add-digits.py",
+          "path": "0258-add-digits/0258-add-digits.py",
+          "sha": "f8c6cf16a0b08d4aaf8797a7288e5ba643f3180c",
+          "lastSyncedAt": "2026-10-10T19:12:39.014Z"
         }
       ]
     },
