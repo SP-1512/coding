@@ -5,7 +5,7 @@
     "name": "Simulation",
     "tagId": "61055"
   },
-  "updatedAt": "2026-10-10T19:12:39.014Z",
+  "updatedAt": "2026-10-10T19:14:33.447Z",
   "problems": [
     {
       "frontendId": "54",
@@ -44,6 +44,26 @@
           "path": "0258-add-digits/0258-add-digits.py",
           "sha": "f8c6cf16a0b08d4aaf8797a7288e5ba643f3180c",
           "lastSyncedAt": "2026-10-10T19:12:39.014Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1389",
+      "title": "Create Target Array in the Given Order",
+      "slug": "create-target-array-in-the-given-order",
+      "problemName": "1389-create-target-array-in-the-given-order",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/create-target-array-in-the-given-order/",
+      "folderPath": "1389-create-target-array-in-the-given-order/",
+      "readmePath": "1389-create-target-array-in-the-given-order/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1389-create-target-array-in-the-given-order.py",
+          "path": "1389-create-target-array-in-the-given-order/1389-create-target-array-in-the-given-order.py",
+          "sha": "c03a1aeea9c95bd8aa1afc2b5b26a693299670b0",
+          "lastSyncedAt": "2026-10-10T19:14:33.447Z"
         }
       ]
     },
