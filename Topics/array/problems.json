@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-10T18:57:04.145Z",
+  "updatedAt": "2026-10-10T18:57:14.042Z",
   "problems": [
     {
       "frontendId": "54",
@@ -24,6 +24,26 @@
           "path": "0054-spiral-matrix/0054-spiral-matrix.py",
           "sha": "0cd1a2497386e9633aef12753f7b84ea9312de82",
           "lastSyncedAt": "2026-10-10T18:54:14.730Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "506",
+      "title": "Relative Ranks",
+      "slug": "relative-ranks",
+      "problemName": "0506-relative-ranks",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/relative-ranks/",
+      "folderPath": "0506-relative-ranks/",
+      "readmePath": "0506-relative-ranks/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0506-relative-ranks.py",
+          "path": "0506-relative-ranks/0506-relative-ranks.py",
+          "sha": "ff17169ce2d0dcfa5cab53e84af8b1e1fe05809b",
+          "lastSyncedAt": "2026-10-10T18:57:14.042Z"
         }
       ]
     },
