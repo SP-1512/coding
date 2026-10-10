@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-10T18:57:37.202Z",
+  "updatedAt": "2026-10-10T18:57:43.959Z",
   "problems": [
     {
       "frontendId": "54",
@@ -184,6 +184,26 @@
           "path": "1470-shuffle-the-array/1470-shuffle-the-array.py",
           "sha": "d48246450980f03ca34a22f218a560499834e1ce",
           "lastSyncedAt": "2026-10-10T18:54:07.494Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1572",
+      "title": "Matrix Diagonal Sum",
+      "slug": "matrix-diagonal-sum",
+      "problemName": "1572-matrix-diagonal-sum",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/matrix-diagonal-sum/",
+      "folderPath": "1572-matrix-diagonal-sum/",
+      "readmePath": "1572-matrix-diagonal-sum/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1572-matrix-diagonal-sum.py",
+          "path": "1572-matrix-diagonal-sum/1572-matrix-diagonal-sum.py",
+          "sha": "c7544b0a6b5ac39d80e4cf10eeb03786afa28f8c",
+          "lastSyncedAt": "2026-10-10T18:57:43.959Z"
         }
       ]
     },
