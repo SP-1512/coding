@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-10T19:11:28.038Z",
+  "updatedAt": "2026-10-10T19:12:59.007Z",
   "problems": [
     {
       "frontendId": "58",
@@ -284,6 +284,26 @@
           "path": "1768-merge-strings-alternately/1768-merge-strings-alternately.py",
           "sha": "4ec5d742ad77c984e1ad1d51a9c4ac8291fc3203",
           "lastSyncedAt": "2026-10-10T19:10:25.014Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1773",
+      "title": "Count Items Matching a Rule",
+      "slug": "count-items-matching-a-rule",
+      "problemName": "1773-count-items-matching-a-rule",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/count-items-matching-a-rule/",
+      "folderPath": "1773-count-items-matching-a-rule/",
+      "readmePath": "1773-count-items-matching-a-rule/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1773-count-items-matching-a-rule.py",
+          "path": "1773-count-items-matching-a-rule/1773-count-items-matching-a-rule.py",
+          "sha": "621de7bc646cb2b405e02ab91e3a026e65fb9514",
+          "lastSyncedAt": "2026-10-10T19:12:59.007Z"
         }
       ]
     },
