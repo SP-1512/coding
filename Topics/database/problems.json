@@ -5,8 +5,28 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-10-10T19:17:53.397Z",
+  "updatedAt": "2026-10-10T19:18:00.011Z",
   "problems": [
+    {
+      "frontendId": "185",
+      "title": "Department Top Three Salaries",
+      "slug": "department-top-three-salaries",
+      "problemName": "0185-department-top-three-salaries",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/department-top-three-salaries/",
+      "folderPath": "0185-department-top-three-salaries/",
+      "readmePath": "0185-department-top-three-salaries/README.md",
+      "solutions": [
+        {
+          "language": "Oracle",
+          "extension": ".sql",
+          "filename": "0185-department-top-three-salaries.sql",
+          "path": "0185-department-top-three-salaries/0185-department-top-three-salaries.sql",
+          "sha": "e482fc2bf742d852e8547ab79919cc72511f277e",
+          "lastSyncedAt": "2026-10-10T19:18:00.011Z"
+        }
+      ]
+    },
     {
       "frontendId": "1204",
       "title": "Last Person to Fit in the Bus",
