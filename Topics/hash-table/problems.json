@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-10T19:13:51.155Z",
+  "updatedAt": "2026-10-10T19:14:09.363Z",
   "problems": [
     {
       "frontendId": "169",
@@ -124,6 +124,26 @@
           "path": "0448-find-all-numbers-disappeared-in-an-array/0448-find-all-numbers-disappeared-in-an-array.py",
           "sha": "b3c6ac6a6567bd2a0f6f5a3448e0efd247748d95",
           "lastSyncedAt": "2026-10-10T19:11:06.017Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "451",
+      "title": "Sort Characters By Frequency",
+      "slug": "sort-characters-by-frequency",
+      "problemName": "0451-sort-characters-by-frequency",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sort-characters-by-frequency/",
+      "folderPath": "0451-sort-characters-by-frequency/",
+      "readmePath": "0451-sort-characters-by-frequency/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0451-sort-characters-by-frequency.py",
+          "path": "0451-sort-characters-by-frequency/0451-sort-characters-by-frequency.py",
+          "sha": "dcbd743b82e9cacf26aa4c4c96879932322a43c1",
+          "lastSyncedAt": "2026-10-10T19:14:09.363Z"
         }
       ]
     },
