@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "design",
+    "name": "Design",
+    "tagId": "25"
+  },
+  "updatedAt": "2026-10-10T19:17:12.665Z",
+  "problems": [
+    {
+      "frontendId": "295",
+      "title": "Find Median from Data Stream",
+      "slug": "find-median-from-data-stream",
+      "problemName": "0295-find-median-from-data-stream",
+      "difficulty": "Hard",
+      "leetcodeUrl": "https://leetcode.com/problems/find-median-from-data-stream/",
+      "folderPath": "0295-find-median-from-data-stream/",
+      "readmePath": "0295-find-median-from-data-stream/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0295-find-median-from-data-stream.cpp",
+          "path": "0295-find-median-from-data-stream/0295-find-median-from-data-stream.cpp",
+          "sha": "d79fa1bc6de01f9a0c9fe133748d42a4bccfee6b",
+          "lastSyncedAt": "2026-10-10T19:17:12.665Z"
+        }
+      ]
+    }
+  ]
+}
