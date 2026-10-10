@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-10T18:57:14.042Z",
+  "updatedAt": "2026-10-10T18:57:29.143Z",
   "problems": [
     {
       "frontendId": "54",
@@ -24,6 +24,26 @@
           "path": "0054-spiral-matrix/0054-spiral-matrix.py",
           "sha": "0cd1a2497386e9633aef12753f7b84ea9312de82",
           "lastSyncedAt": "2026-10-10T18:54:14.730Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "121",
+      "title": "Best Time to Buy and Sell Stock",
+      "slug": "best-time-to-buy-and-sell-stock",
+      "problemName": "0121-best-time-to-buy-and-sell-stock",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/",
+      "folderPath": "0121-best-time-to-buy-and-sell-stock/",
+      "readmePath": "0121-best-time-to-buy-and-sell-stock/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0121-best-time-to-buy-and-sell-stock.py",
+          "path": "0121-best-time-to-buy-and-sell-stock/0121-best-time-to-buy-and-sell-stock.py",
+          "sha": "14e26346be778503a84406a8632c774891af91ff",
+          "lastSyncedAt": "2026-10-10T18:57:29.143Z"
         }
       ]
     },
