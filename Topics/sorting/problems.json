@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-10T19:13:51.155Z",
+  "updatedAt": "2026-10-10T19:14:09.363Z",
   "problems": [
     {
       "frontendId": "169",
@@ -104,6 +104,26 @@
           "path": "0442-find-all-duplicates-in-an-array/0442-find-all-duplicates-in-an-array.py",
           "sha": "c95a9980672a67bba0dc5693823655588e05ec0e",
           "lastSyncedAt": "2026-10-10T19:13:22.064Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "451",
+      "title": "Sort Characters By Frequency",
+      "slug": "sort-characters-by-frequency",
+      "problemName": "0451-sort-characters-by-frequency",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sort-characters-by-frequency/",
+      "folderPath": "0451-sort-characters-by-frequency/",
+      "readmePath": "0451-sort-characters-by-frequency/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0451-sort-characters-by-frequency.py",
+          "path": "0451-sort-characters-by-frequency/0451-sort-characters-by-frequency.py",
+          "sha": "dcbd743b82e9cacf26aa4c4c96879932322a43c1",
+          "lastSyncedAt": "2026-10-10T19:14:09.363Z"
         }
       ]
     },
