@@ -5,8 +5,28 @@
     "name": "Counting",
     "tagId": "61062"
   },
-  "updatedAt": "2026-10-10T18:54:44.757Z",
+  "updatedAt": "2026-10-10T18:57:04.145Z",
   "problems": [
+    {
+      "frontendId": "819",
+      "title": "Most Common Word",
+      "slug": "most-common-word",
+      "problemName": "0819-most-common-word",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/most-common-word/",
+      "folderPath": "0819-most-common-word/",
+      "readmePath": "0819-most-common-word/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0819-most-common-word.py",
+          "path": "0819-most-common-word/0819-most-common-word.py",
+          "sha": "fe682545ea1dc63db371647f329e4b8902469e10",
+          "lastSyncedAt": "2026-10-10T18:57:04.145Z"
+        }
+      ]
+    },
     {
       "frontendId": "1876",
       "title": "Substrings of Size Three with Distinct Characters",
