@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-10T19:13:05.515Z",
+  "updatedAt": "2026-10-10T19:13:14.264Z",
   "problems": [
     {
       "frontendId": "54",
@@ -424,6 +424,26 @@
           "path": "1732-find-the-highest-altitude/1732-find-the-highest-altitude.py",
           "sha": "2b7e3d7386390a3ba5b0e01d0887d6bd28273bd2",
           "lastSyncedAt": "2026-10-10T19:13:05.515Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1748",
+      "title": "Sum of Unique Elements",
+      "slug": "sum-of-unique-elements",
+      "problemName": "1748-sum-of-unique-elements",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/sum-of-unique-elements/",
+      "folderPath": "1748-sum-of-unique-elements/",
+      "readmePath": "1748-sum-of-unique-elements/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1748-sum-of-unique-elements.py",
+          "path": "1748-sum-of-unique-elements/1748-sum-of-unique-elements.py",
+          "sha": "f32508e4e119a27ed893ab32e0e9509eab091a99",
+          "lastSyncedAt": "2026-10-10T19:13:14.264Z"
         }
       ]
     },
