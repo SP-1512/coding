@@ -1,0 +1,1 @@
+select contest_id, round(count(*)/(select count(*) from users)*100,2) as Percentage from register group by contest_id order by count(*) desc,contest_id;
