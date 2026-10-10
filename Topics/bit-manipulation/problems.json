@@ -5,8 +5,28 @@
     "name": "Bit Manipulation",
     "tagId": "19"
   },
-  "updatedAt": "2026-10-10T19:16:30.673Z",
+  "updatedAt": "2026-10-10T19:17:36.180Z",
   "problems": [
+    {
+      "frontendId": "190",
+      "title": "Reverse Bits",
+      "slug": "reverse-bits",
+      "problemName": "0190-reverse-bits",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-bits/",
+      "folderPath": "0190-reverse-bits/",
+      "readmePath": "0190-reverse-bits/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0190-reverse-bits.java",
+          "path": "0190-reverse-bits/0190-reverse-bits.java",
+          "sha": "2ce58ae92e01ff1f7f29def3c940fe3beb3e6eeb",
+          "lastSyncedAt": "2026-10-10T19:17:36.180Z"
+        }
+      ]
+    },
     {
       "frontendId": "231",
       "title": "Power of Two",
