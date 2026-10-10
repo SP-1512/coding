@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-10T18:54:49.791Z",
+  "updatedAt": "2026-10-10T18:55:04.549Z",
   "problems": [
     {
       "frontendId": "58",
@@ -164,6 +164,26 @@
           "path": "2810-faulty-keyboard/2810-faulty-keyboard.py",
           "sha": "33d69cb8f302761b07fc83f94be05a10ce191d9e",
           "lastSyncedAt": "2026-10-10T18:53:47.445Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2942",
+      "title": "Find Words Containing Character",
+      "slug": "find-words-containing-character",
+      "problemName": "2942-find-words-containing-character",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-words-containing-character/",
+      "folderPath": "2942-find-words-containing-character/",
+      "readmePath": "2942-find-words-containing-character/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2942-find-words-containing-character.py",
+          "path": "2942-find-words-containing-character/2942-find-words-containing-character.py",
+          "sha": "85b9840ca179f9e80fbb953d48b126349dd3f529",
+          "lastSyncedAt": "2026-10-10T18:55:04.549Z"
         }
       ]
     },
