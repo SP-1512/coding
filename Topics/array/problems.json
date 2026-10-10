@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-10T19:15:57.711Z",
+  "updatedAt": "2026-10-10T19:16:36.842Z",
   "problems": [
     {
       "frontendId": "1",
@@ -424,6 +424,26 @@
           "path": "1207-unique-number-of-occurrences/1207-unique-number-of-occurrences.py",
           "sha": "259004150f120e22d3211f112d85dea63adcbb3f",
           "lastSyncedAt": "2026-10-10T19:12:47.491Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1295",
+      "title": "Find Numbers with Even Number of Digits",
+      "slug": "find-numbers-with-even-number-of-digits",
+      "problemName": "1295-find-numbers-with-even-number-of-digits",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-numbers-with-even-number-of-digits/",
+      "folderPath": "1295-find-numbers-with-even-number-of-digits/",
+      "readmePath": "1295-find-numbers-with-even-number-of-digits/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1295-find-numbers-with-even-number-of-digits.py",
+          "path": "1295-find-numbers-with-even-number-of-digits/1295-find-numbers-with-even-number-of-digits.py",
+          "sha": "05df5bb2aeabe996b20945362402f5ded07dcaa0",
+          "lastSyncedAt": "2026-10-10T19:16:36.842Z"
         }
       ]
     },
