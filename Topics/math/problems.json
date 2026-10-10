@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-10T18:54:37.432Z",
+  "updatedAt": "2026-10-10T18:54:54.392Z",
   "problems": [
     {
       "frontendId": "1304",
@@ -44,6 +44,26 @@
           "path": "2169-count-operations-to-obtain-zero/2169-count-operations-to-obtain-zero.py",
           "sha": "962b01207cd9248dce50237b1a62912ee53613b8",
           "lastSyncedAt": "2026-10-10T18:53:51.295Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2469",
+      "title": "Convert the Temperature",
+      "slug": "convert-the-temperature",
+      "problemName": "2469-convert-the-temperature",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/convert-the-temperature/",
+      "folderPath": "2469-convert-the-temperature/",
+      "readmePath": "2469-convert-the-temperature/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2469-convert-the-temperature.py",
+          "path": "2469-convert-the-temperature/2469-convert-the-temperature.py",
+          "sha": "20a813fa5f8ef368373a12d0f08c6a97ae09f8ca",
+          "lastSyncedAt": "2026-10-10T18:54:54.392Z"
         }
       ]
     }
