@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-10T19:15:36.171Z",
+  "updatedAt": "2026-10-10T19:15:43.773Z",
   "problems": [
     {
       "frontendId": "1",
@@ -104,6 +104,26 @@
           "path": "0204-count-primes/0204-count-primes.py",
           "sha": "9cfdbecf380a79e6b1249e17eae3a092059d9eae",
           "lastSyncedAt": "2026-10-10T19:11:35.004Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "217",
+      "title": "Contains Duplicate",
+      "slug": "contains-duplicate",
+      "problemName": "0217-contains-duplicate",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/contains-duplicate/",
+      "folderPath": "0217-contains-duplicate/",
+      "readmePath": "0217-contains-duplicate/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0217-contains-duplicate.py",
+          "path": "0217-contains-duplicate/0217-contains-duplicate.py",
+          "sha": "ad06b688181775b399605bf00d10477d85a7717c",
+          "lastSyncedAt": "2026-10-10T19:15:43.773Z"
         }
       ]
     },
