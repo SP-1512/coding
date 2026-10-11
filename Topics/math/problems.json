@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-10T19:17:28.182Z",
+  "updatedAt": "2026-10-11T09:25:14.866Z",
   "problems": [
     {
       "frontendId": "9",
@@ -564,6 +564,26 @@
           "path": "2894-divisible-and-non-divisible-sums-difference/2894-divisible-and-non-divisible-sums-difference.py",
           "sha": "dfb10ffc96b919e7dfaf5937dd266e08584c05dd",
           "lastSyncedAt": "2026-10-10T19:09:07.009Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3289",
+      "title": "The Two Sneaky Numbers of Digitville",
+      "slug": "the-two-sneaky-numbers-of-digitville",
+      "problemName": "3289-the-two-sneaky-numbers-of-digitville",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville/",
+      "folderPath": "3289-the-two-sneaky-numbers-of-digitville/",
+      "readmePath": "3289-the-two-sneaky-numbers-of-digitville/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3289-the-two-sneaky-numbers-of-digitville.py",
+          "path": "3289-the-two-sneaky-numbers-of-digitville/3289-the-two-sneaky-numbers-of-digitville.py",
+          "sha": "fa70a79141c9859d43381fcadff7b37989fd7582",
+          "lastSyncedAt": "2026-10-11T09:25:14.866Z"
         }
       ]
     }
