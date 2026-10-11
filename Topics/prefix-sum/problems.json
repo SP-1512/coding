@@ -5,7 +5,7 @@
     "name": "Prefix Sum",
     "tagId": "61068"
   },
-  "updatedAt": "2026-10-11T10:01:29.363Z",
+  "updatedAt": "2026-10-11T17:09:52.845Z",
   "problems": [
     {
       "frontendId": "1480",
@@ -63,7 +63,7 @@
           "filename": "2574-left-and-right-sum-differences.py",
           "path": "2574-left-and-right-sum-differences/2574-left-and-right-sum-differences.py",
           "sha": "8f2ba4220f44edbe200ca7aaacb06f3794386371",
-          "lastSyncedAt": "2026-10-11T10:01:29.363Z"
+          "lastSyncedAt": "2026-10-11T17:09:52.845Z"
         }
       ]
     }
