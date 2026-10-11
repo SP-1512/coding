@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-10T19:16:36.842Z",
+  "updatedAt": "2026-10-11T09:25:14.866Z",
   "problems": [
     {
       "frontendId": "1",
@@ -844,6 +844,26 @@
           "path": "2942-find-words-containing-character/2942-find-words-containing-character.py",
           "sha": "85b9840ca179f9e80fbb953d48b126349dd3f529",
           "lastSyncedAt": "2026-10-10T19:09:09.189Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3289",
+      "title": "The Two Sneaky Numbers of Digitville",
+      "slug": "the-two-sneaky-numbers-of-digitville",
+      "problemName": "3289-the-two-sneaky-numbers-of-digitville",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville/",
+      "folderPath": "3289-the-two-sneaky-numbers-of-digitville/",
+      "readmePath": "3289-the-two-sneaky-numbers-of-digitville/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3289-the-two-sneaky-numbers-of-digitville.py",
+          "path": "3289-the-two-sneaky-numbers-of-digitville/3289-the-two-sneaky-numbers-of-digitville.py",
+          "sha": "fa70a79141c9859d43381fcadff7b37989fd7582",
+          "lastSyncedAt": "2026-10-11T09:25:14.866Z"
         }
       ]
     }
