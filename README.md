@@ -6,17 +6,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 105 | 83 | 19 | 3 |
+| 107 | 85 | 19 | 3 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 0 days | 5 days | 23 |
+| 2 days | 5 days | 24 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-18 | 6 |
 | 2026-09-20 | 1 |
 | 2026-09-21 | 5 |
 | 2026-09-22 | 12 |
@@ -30,27 +29,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 2026-10-05 | 13 |
 | 2026-10-06 | 10 |
 | 2026-10-10 | 5 |
+| 2026-10-11 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 42 | 40% |
-| String | 29 | 28% |
-| Math | 28 | 27% |
-| Hash Table | 22 | 21% |
+| Array | 44 | 41% |
+| Math | 29 | 27% |
+| String | 29 | 27% |
+| Hash Table | 23 | 21% |
 | Sorting | 15 | 14% |
 | Database | 13 | 12% |
 | Counting | 11 | 10% |
-| Simulation | 9 | 9% |
-| Two Pointers | 9 | 9% |
+| Simulation | 9 | 8% |
+| Two Pointers | 9 | 8% |
 | Bit Manipulation | 7 | 7% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 42 |
+| [Array](Topics/array/) | 44 |
 | [Binary Search](Topics/binary-search/) | 3 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 7 |
 | [Boyer–Moore Majority Vote Algorithm](Topics/boyer-moore-majority-vote-algorithm/) | 1 |
@@ -67,14 +67,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 1 |
 | [Graph Theory](Topics/graph/) | 1 |
 | [Greedy](Topics/greedy/) | 1 |
-| [Hash Table](Topics/hash-table/) | 22 |
+| [Hash Table](Topics/hash-table/) | 23 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 5 |
-| [Math](Topics/math/) | 28 |
+| [Math](Topics/math/) | 29 |
 | [Matrix](Topics/matrix/) | 5 |
 | [Memoization](Topics/memoization/) | 1 |
 | [Number Theory](Topics/number-theory/) | 4 |
 | [Pigeonhole Principle](Topics/pigeonhole-principle/) | 1 |
-| [Prefix Sum](Topics/prefix-sum/) | 2 |
+| [Prefix Sum](Topics/prefix-sum/) | 3 |
 | [Primality Test](Topics/primality-test/) | 1 |
 | [Prime Factorization](Topics/prime-factorization/) | 1 |
 | [Prime Number Sieve](Topics/prime-number-sieve/) | 1 |
