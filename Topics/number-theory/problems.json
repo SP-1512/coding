@@ -5,7 +5,7 @@
     "name": "Number Theory",
     "tagId": "61067"
   },
-  "updatedAt": "2026-10-10T19:14:40.079Z",
+  "updatedAt": "2026-10-12T03:32:51.007Z",
   "problems": [
     {
       "frontendId": "204",
@@ -84,6 +84,26 @@
           "path": "2413-smallest-even-multiple/2413-smallest-even-multiple.py",
           "sha": "ac018978da93cdd0ce8f5ab4b8a9983a4b31dfe6",
           "lastSyncedAt": "2026-10-10T19:10:06.021Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2427",
+      "title": "Number of Common Factors",
+      "slug": "number-of-common-factors",
+      "problemName": "2427-number-of-common-factors",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-common-factors/",
+      "folderPath": "2427-number-of-common-factors/",
+      "readmePath": "2427-number-of-common-factors/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2427-number-of-common-factors.py",
+          "path": "2427-number-of-common-factors/2427-number-of-common-factors.py",
+          "sha": "0909d6af0ba0cd8d0ee198ad1167149e30528798",
+          "lastSyncedAt": "2026-10-12T03:32:51.007Z"
         }
       ]
     }
