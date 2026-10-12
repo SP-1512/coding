@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-12T03:32:51.007Z",
+  "updatedAt": "2026-10-12T04:05:40.561Z",
   "problems": [
     {
       "frontendId": "9",
@@ -564,6 +564,26 @@
           "path": "2544-alternating-digit-sum/2544-alternating-digit-sum.py",
           "sha": "4fe8b13fdb62751410ab0937cf88ff3d1280c777",
           "lastSyncedAt": "2026-10-10T19:10:12.022Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2651",
+      "title": "Calculate Delayed Arrival Time",
+      "slug": "calculate-delayed-arrival-time",
+      "problemName": "2651-calculate-delayed-arrival-time",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/calculate-delayed-arrival-time/",
+      "folderPath": "2651-calculate-delayed-arrival-time/",
+      "readmePath": "2651-calculate-delayed-arrival-time/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2651-calculate-delayed-arrival-time.py",
+          "path": "2651-calculate-delayed-arrival-time/2651-calculate-delayed-arrival-time.py",
+          "sha": "7b79130cbfe2c092c2693e14bfc77244eab80db6",
+          "lastSyncedAt": "2026-10-12T04:05:40.561Z"
         }
       ]
     },
