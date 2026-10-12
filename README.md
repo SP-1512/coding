@@ -6,7 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 108 | 86 | 19 | 3 |
+| 109 | 87 | 19 | 3 |
 
 ## Activity
 
@@ -29,14 +29,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 2026-10-06 | 10 |
 | 2026-10-10 | 5 |
 | 2026-10-11 | 2 |
-| 2026-10-12 | 1 |
+| 2026-10-12 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 44 | 41% |
-| Math | 30 | 28% |
+| Array | 44 | 40% |
+| Math | 31 | 28% |
 | String | 29 | 27% |
 | Hash Table | 23 | 21% |
 | Sorting | 15 | 14% |
@@ -71,7 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [Greedy](Topics/greedy/) | 1 |
 | [Hash Table](Topics/hash-table/) | 23 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 5 |
-| [Math](Topics/math/) | 30 |
+| [Math](Topics/math/) | 31 |
 | [Matrix](Topics/matrix/) | 5 |
 | [Memoization](Topics/memoization/) | 1 |
 | [Number Theory](Topics/number-theory/) | 5 |
