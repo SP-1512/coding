@@ -5,7 +5,7 @@
     "name": "Simulation",
     "tagId": "61055"
   },
-  "updatedAt": "2026-10-11T17:10:47.479Z",
+  "updatedAt": "2026-10-14T16:24:56.253Z",
   "problems": [
     {
       "frontendId": "54",
@@ -84,6 +84,26 @@
           "path": "1389-create-target-array-in-the-given-order/1389-create-target-array-in-the-given-order.py",
           "sha": "c03a1aeea9c95bd8aa1afc2b5b26a693299670b0",
           "lastSyncedAt": "2026-10-10T19:14:33.447Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1688",
+      "title": "Count of Matches in Tournament",
+      "slug": "count-of-matches-in-tournament",
+      "problemName": "1688-count-of-matches-in-tournament",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/count-of-matches-in-tournament/",
+      "folderPath": "1688-count-of-matches-in-tournament/",
+      "readmePath": "1688-count-of-matches-in-tournament/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1688-count-of-matches-in-tournament.py",
+          "path": "1688-count-of-matches-in-tournament/1688-count-of-matches-in-tournament.py",
+          "sha": "64e9ee623ec669bae6c1a0e9703e13170a2013b3",
+          "lastSyncedAt": "2026-10-14T16:24:56.253Z"
         }
       ]
     },
