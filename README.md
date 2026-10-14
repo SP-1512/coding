@@ -6,7 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 111 | 89 | 19 | 3 |
+| 112 | 90 | 19 | 3 |
 
 ## Activity
 
@@ -29,20 +29,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 2026-10-11 | 2 |
 | 2026-10-12 | 2 |
 | 2026-10-13 | 1 |
-| 2026-10-14 | 1 |
+| 2026-10-14 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 45 | 41% |
-| Math | 32 | 29% |
+| Array | 45 | 40% |
+| Math | 33 | 29% |
 | String | 29 | 26% |
 | Hash Table | 23 | 21% |
-| Sorting | 15 | 14% |
+| Sorting | 15 | 13% |
 | Database | 13 | 12% |
 | Counting | 11 | 10% |
-| Simulation | 9 | 8% |
+| Simulation | 10 | 9% |
 | Two Pointers | 9 | 8% |
 | Bit Manipulation | 7 | 6% |
 
@@ -71,7 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [Greedy](Topics/greedy/) | 2 |
 | [Hash Table](Topics/hash-table/) | 23 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 5 |
-| [Math](Topics/math/) | 32 |
+| [Math](Topics/math/) | 33 |
 | [Matrix](Topics/matrix/) | 5 |
 | [Memoization](Topics/memoization/) | 1 |
 | [Number Theory](Topics/number-theory/) | 5 |
@@ -84,7 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [Quickselect](Topics/quickselect/) | 1 |
 | [Recursion](Topics/recursion/) | 5 |
 | [Sieve Theory](Topics/sieve-theory/) | 2 |
-| [Simulation](Topics/simulation/) | 9 |
+| [Simulation](Topics/simulation/) | 10 |
 | [Sliding Window](Topics/sliding-window/) | 1 |
 | [Sorting](Topics/sorting/) | 15 |
 | [String](Topics/string/) | 29 |
