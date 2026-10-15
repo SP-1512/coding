@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-11T17:12:32.896Z",
+  "updatedAt": "2026-10-15T15:49:18.887Z",
   "problems": [
     {
       "frontendId": "58",
@@ -184,6 +184,26 @@
           "path": "0451-sort-characters-by-frequency/0451-sort-characters-by-frequency.py",
           "sha": "dcbd743b82e9cacf26aa4c4c96879932322a43c1",
           "lastSyncedAt": "2026-10-10T19:14:09.363Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "657",
+      "title": "Robot Return to Origin",
+      "slug": "robot-return-to-origin",
+      "problemName": "0657-robot-return-to-origin",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/robot-return-to-origin/",
+      "folderPath": "0657-robot-return-to-origin/",
+      "readmePath": "0657-robot-return-to-origin/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0657-robot-return-to-origin.py",
+          "path": "0657-robot-return-to-origin/0657-robot-return-to-origin.py",
+          "sha": "72ab81bbe1ce64c00dcb6f19cd1af054bcef0493",
+          "lastSyncedAt": "2026-10-15T15:49:18.887Z"
         }
       ]
     },
