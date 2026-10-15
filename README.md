@@ -6,7 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 113 | 91 | 19 | 3 |
+| 114 | 92 | 19 | 3 |
 
 ## Activity
 
@@ -29,20 +29,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 2026-10-12 | 2 |
 | 2026-10-13 | 1 |
 | 2026-10-14 | 2 |
-| 2026-10-15 | 1 |
+| 2026-10-15 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 46 | 41% |
+| Array | 46 | 40% |
 | Math | 33 | 29% |
-| String | 29 | 26% |
+| String | 30 | 26% |
 | Hash Table | 23 | 20% |
 | Sorting | 15 | 13% |
-| Database | 13 | 12% |
+| Database | 13 | 11% |
 | Counting | 11 | 10% |
-| Simulation | 10 | 9% |
+| Simulation | 11 | 10% |
 | Two Pointers | 9 | 8% |
 | Bit Manipulation | 7 | 6% |
 
@@ -84,10 +84,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [Quickselect](Topics/quickselect/) | 1 |
 | [Recursion](Topics/recursion/) | 5 |
 | [Sieve Theory](Topics/sieve-theory/) | 2 |
-| [Simulation](Topics/simulation/) | 10 |
+| [Simulation](Topics/simulation/) | 11 |
 | [Sliding Window](Topics/sliding-window/) | 1 |
 | [Sorting](Topics/sorting/) | 15 |
-| [String](Topics/string/) | 29 |
+| [String](Topics/string/) | 30 |
 | [Trie](Topics/trie/) | 1 |
 | [Two Pointers](Topics/two-pointers/) | 9 |
 <!---LeetHub Summary End-->
