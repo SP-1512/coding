@@ -5,7 +5,7 @@
     "name": "Sliding Window",
     "tagId": "55821"
   },
-  "updatedAt": "2026-10-11T17:10:54.330Z",
+  "updatedAt": "2026-10-15T15:52:07.066Z",
   "problems": [
     {
       "frontendId": "1876",
@@ -23,7 +23,7 @@
           "filename": "1876-substrings-of-size-three-with-distinct-characters.py",
           "path": "1876-substrings-of-size-three-with-distinct-characters/1876-substrings-of-size-three-with-distinct-characters.py",
           "sha": "f7449658256948ba47122c551c76c0ab1af4db04",
-          "lastSyncedAt": "2026-10-11T17:10:54.330Z"
+          "lastSyncedAt": "2026-10-15T15:52:07.066Z"
         }
       ]
     }
