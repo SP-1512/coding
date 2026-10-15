@@ -6,7 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 114 | 92 | 19 | 3 |
+| 115 | 93 | 19 | 3 |
 
 ## Activity
 
@@ -29,20 +29,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 2026-10-12 | 2 |
 | 2026-10-13 | 1 |
 | 2026-10-14 | 2 |
-| 2026-10-15 | 2 |
+| 2026-10-15 | 3 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 46 | 40% |
+| Array | 47 | 41% |
 | Math | 33 | 29% |
 | String | 30 | 26% |
 | Hash Table | 23 | 20% |
 | Sorting | 15 | 13% |
 | Database | 13 | 11% |
+| Simulation | 12 | 10% |
 | Counting | 11 | 10% |
-| Simulation | 11 | 10% |
 | Two Pointers | 9 | 8% |
 | Bit Manipulation | 7 | 6% |
 
@@ -50,7 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 46 |
+| [Array](Topics/array/) | 47 |
 | [Binary Search](Topics/binary-search/) | 3 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 7 |
 | [Boyer–Moore Majority Vote Algorithm](Topics/boyer-moore-majority-vote-algorithm/) | 1 |
@@ -84,9 +84,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [Quickselect](Topics/quickselect/) | 1 |
 | [Recursion](Topics/recursion/) | 5 |
 | [Sieve Theory](Topics/sieve-theory/) | 2 |
-| [Simulation](Topics/simulation/) | 11 |
+| [Simulation](Topics/simulation/) | 12 |
 | [Sliding Window](Topics/sliding-window/) | 1 |
 | [Sorting](Topics/sorting/) | 15 |
+| [Stack](Topics/stack/) | 1 |
 | [String](Topics/string/) | 30 |
 | [Trie](Topics/trie/) | 1 |
 | [Two Pointers](Topics/two-pointers/) | 9 |
