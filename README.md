@@ -6,7 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 117 | 95 | 19 | 3 |
+| 118 | 96 | 19 | 3 |
 
 ## Activity
 
@@ -29,16 +29,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 2026-10-13 | 1 |
 | 2026-10-14 | 2 |
 | 2026-10-15 | 3 |
-| 2026-10-16 | 2 |
+| 2026-10-16 | 3 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 48 | 41% |
+| Array | 49 | 42% |
 | Math | 35 | 30% |
-| String | 30 | 26% |
-| Hash Table | 23 | 20% |
+| String | 30 | 25% |
+| Hash Table | 23 | 19% |
 | Sorting | 15 | 13% |
 | Database | 13 | 11% |
 | Simulation | 12 | 10% |
@@ -50,7 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 48 |
+| [Array](Topics/array/) | 49 |
 | [Binary Search](Topics/binary-search/) | 3 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 7 |
 | [Boyer–Moore Majority Vote Algorithm](Topics/boyer-moore-majority-vote-algorithm/) | 1 |
@@ -63,7 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [Design](Topics/design/) | 1 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 3 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 3 |
-| [Enumeration](Topics/enumeration/) | 3 |
+| [Enumeration](Topics/enumeration/) | 4 |
 | [Euclidean Algorithm](Topics/euclidean-algorithm/) | 1 |
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 1 |
 | [Graph Theory](Topics/graph/) | 1 |
