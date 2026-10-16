@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-15T15:51:28.026Z",
+  "updatedAt": "2026-10-16T08:14:22.638Z",
   "problems": [
     {
       "frontendId": "9",
@@ -584,6 +584,26 @@
           "path": "2520-count-the-digits-that-divide-a-number/2520-count-the-digits-that-divide-a-number.py",
           "sha": "82b870bc6d01cef6562a52b92d3e9ac7fd5c76d9",
           "lastSyncedAt": "2026-10-10T19:16:04.896Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2535",
+      "title": "Difference Between Element Sum and Digit Sum of an Array",
+      "slug": "difference-between-element-sum-and-digit-sum-of-an-array",
+      "problemName": "2535-difference-between-element-sum-and-digit-sum-of-an-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/",
+      "folderPath": "2535-difference-between-element-sum-and-digit-sum-of-an-array/",
+      "readmePath": "2535-difference-between-element-sum-and-digit-sum-of-an-array/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2535-difference-between-element-sum-and-digit-sum-of-an-array.py",
+          "path": "2535-difference-between-element-sum-and-digit-sum-of-an-array/2535-difference-between-element-sum-and-digit-sum-of-an-array.py",
+          "sha": "1c222a9e3b3abca933c44a6b1950f8cc1f6ebbe8",
+          "lastSyncedAt": "2026-10-16T08:14:22.638Z"
         }
       ]
     },
