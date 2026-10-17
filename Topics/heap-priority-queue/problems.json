@@ -5,7 +5,7 @@
     "name": "Heap (Priority Queue)",
     "tagId": "61050"
   },
-  "updatedAt": "2026-10-10T19:17:12.665Z",
+  "updatedAt": "2026-10-17T14:15:57.582Z",
   "problems": [
     {
       "frontendId": "295",
@@ -104,6 +104,26 @@
           "path": "0692-top-k-frequent-words/0692-top-k-frequent-words.py",
           "sha": "ec39b25efecadc328079986565432f4798175170",
           "lastSyncedAt": "2026-10-10T19:13:31.006Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2974",
+      "title": "Minimum Number Game",
+      "slug": "minimum-number-game",
+      "problemName": "2974-minimum-number-game",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-number-game/",
+      "folderPath": "2974-minimum-number-game/",
+      "readmePath": "2974-minimum-number-game/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2974-minimum-number-game.py",
+          "path": "2974-minimum-number-game/2974-minimum-number-game.py",
+          "sha": "1202f3ebfc0dfef0fd7e38fc60175e2c5a237497",
+          "lastSyncedAt": "2026-10-17T14:15:57.582Z"
         }
       ]
     }
