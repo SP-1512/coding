@@ -6,17 +6,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 118 | 96 | 19 | 3 |
+| 119 | 97 | 19 | 3 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 7 days | 7 days | 29 |
+| 8 days | 8 days | 30 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-26 | 1 |
 | 2026-09-29 | 3 |
 | 2026-09-30 | 2 |
 | 2026-10-01 | 11 |
@@ -30,18 +29,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 2026-10-14 | 2 |
 | 2026-10-15 | 3 |
 | 2026-10-16 | 3 |
+| 2026-10-17 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 49 | 42% |
-| Math | 35 | 30% |
+| Array | 50 | 42% |
+| Math | 35 | 29% |
 | String | 30 | 25% |
 | Hash Table | 23 | 19% |
-| Sorting | 15 | 13% |
+| Sorting | 16 | 13% |
 | Database | 13 | 11% |
-| Simulation | 12 | 10% |
+| Simulation | 13 | 11% |
 | Counting | 11 | 9% |
 | Two Pointers | 9 | 8% |
 | Bit Manipulation | 7 | 6% |
@@ -50,7 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 49 |
+| [Array](Topics/array/) | 50 |
 | [Binary Search](Topics/binary-search/) | 3 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 7 |
 | [Boyer–Moore Majority Vote Algorithm](Topics/boyer-moore-majority-vote-algorithm/) | 1 |
@@ -70,7 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [Greatest Common Divisor](Topics/greatest-common-divisor/) | 1 |
 | [Greedy](Topics/greedy/) | 2 |
 | [Hash Table](Topics/hash-table/) | 23 |
-| [Heap (Priority Queue)](Topics/heap-priority-queue/) | 5 |
+| [Heap (Priority Queue)](Topics/heap-priority-queue/) | 6 |
 | [Math](Topics/math/) | 35 |
 | [Matrix](Topics/matrix/) | 5 |
 | [Memoization](Topics/memoization/) | 1 |
@@ -84,9 +84,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [Quickselect](Topics/quickselect/) | 1 |
 | [Recursion](Topics/recursion/) | 5 |
 | [Sieve Theory](Topics/sieve-theory/) | 2 |
-| [Simulation](Topics/simulation/) | 12 |
+| [Simulation](Topics/simulation/) | 13 |
 | [Sliding Window](Topics/sliding-window/) | 1 |
-| [Sorting](Topics/sorting/) | 15 |
+| [Sorting](Topics/sorting/) | 16 |
 | [Stack](Topics/stack/) | 1 |
 | [String](Topics/string/) | 30 |
 | [Trie](Topics/trie/) | 1 |
