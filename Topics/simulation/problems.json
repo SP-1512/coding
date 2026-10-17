@@ -5,7 +5,7 @@
     "name": "Simulation",
     "tagId": "61055"
   },
-  "updatedAt": "2026-10-15T16:11:32.781Z",
+  "updatedAt": "2026-10-17T14:15:57.582Z",
   "problems": [
     {
       "frontendId": "54",
@@ -224,6 +224,26 @@
           "path": "2810-faulty-keyboard/2810-faulty-keyboard.py",
           "sha": "33d69cb8f302761b07fc83f94be05a10ce191d9e",
           "lastSyncedAt": "2026-10-15T15:51:23.500Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2974",
+      "title": "Minimum Number Game",
+      "slug": "minimum-number-game",
+      "problemName": "2974-minimum-number-game",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-number-game/",
+      "folderPath": "2974-minimum-number-game/",
+      "readmePath": "2974-minimum-number-game/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2974-minimum-number-game.py",
+          "path": "2974-minimum-number-game/2974-minimum-number-game.py",
+          "sha": "1202f3ebfc0dfef0fd7e38fc60175e2c5a237497",
+          "lastSyncedAt": "2026-10-17T14:15:57.582Z"
         }
       ]
     },
