@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-18T14:33:44.448Z",
+  "updatedAt": "2026-10-18T14:39:03.008Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1024,6 +1024,26 @@
           "path": "3065-minimum-operations-to-exceed-threshold-value-i/3065-minimum-operations-to-exceed-threshold-value-i.py",
           "sha": "f4ccdd88cbe6a3dbd6238e89bac2fc7392f0e68e",
           "lastSyncedAt": "2026-10-15T15:50:34.109Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3232",
+      "title": "Find if Digit Game Can Be Won",
+      "slug": "find-if-digit-game-can-be-won",
+      "problemName": "3232-find-if-digit-game-can-be-won",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-if-digit-game-can-be-won/",
+      "folderPath": "3232-find-if-digit-game-can-be-won/",
+      "readmePath": "3232-find-if-digit-game-can-be-won/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3232-find-if-digit-game-can-be-won.py",
+          "path": "3232-find-if-digit-game-can-be-won/3232-find-if-digit-game-can-be-won.py",
+          "sha": "7308d26a2c5e69d45990ecef7ebbdeec936cd115",
+          "lastSyncedAt": "2026-10-18T14:39:03.008Z"
         }
       ]
     },
