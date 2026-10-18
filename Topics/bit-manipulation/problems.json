@@ -5,7 +5,7 @@
     "name": "Bit Manipulation",
     "tagId": "19"
   },
-  "updatedAt": "2026-10-18T17:36:48.735Z",
+  "updatedAt": "2026-10-18T17:37:39.243Z",
   "problems": [
     {
       "frontendId": "190",
@@ -23,7 +23,7 @@
           "filename": "0190-reverse-bits.java",
           "path": "0190-reverse-bits/0190-reverse-bits.java",
           "sha": "2ce58ae92e01ff1f7f29def3c940fe3beb3e6eeb",
-          "lastSyncedAt": "2026-10-10T19:17:36.180Z"
+          "lastSyncedAt": "2026-10-18T17:37:39.243Z"
         }
       ]
     },
