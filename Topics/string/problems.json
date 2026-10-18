@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-15T15:52:07.066Z",
+  "updatedAt": "2026-10-18T14:33:44.448Z",
   "problems": [
     {
       "frontendId": "58",
@@ -504,6 +504,26 @@
           "path": "2011-final-value-of-variable-after-performing-operations/2011-final-value-of-variable-after-performing-operations.py",
           "sha": "c0c6aee8950058ce327e2ffe2d9315ccc8721447",
           "lastSyncedAt": "2026-10-15T15:51:53.314Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2108",
+      "title": "Find First Palindromic String in the Array",
+      "slug": "find-first-palindromic-string-in-the-array",
+      "problemName": "2108-find-first-palindromic-string-in-the-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-first-palindromic-string-in-the-array/",
+      "folderPath": "2108-find-first-palindromic-string-in-the-array/",
+      "readmePath": "2108-find-first-palindromic-string-in-the-array/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2108-find-first-palindromic-string-in-the-array.py",
+          "path": "2108-find-first-palindromic-string-in-the-array/2108-find-first-palindromic-string-in-the-array.py",
+          "sha": "857d87b941390d0b18558f914cadb586f25ff06f",
+          "lastSyncedAt": "2026-10-18T14:33:44.448Z"
         }
       ]
     },
