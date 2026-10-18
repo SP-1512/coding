@@ -5,7 +5,7 @@
     "name": "Trie",
     "tagId": "27"
   },
-  "updatedAt": "2026-10-10T19:13:31.006Z",
+  "updatedAt": "2026-10-18T17:33:08.779Z",
   "problems": [
     {
       "frontendId": "692",
@@ -23,7 +23,7 @@
           "filename": "0692-top-k-frequent-words.py",
           "path": "0692-top-k-frequent-words/0692-top-k-frequent-words.py",
           "sha": "ec39b25efecadc328079986565432f4798175170",
-          "lastSyncedAt": "2026-10-10T19:13:31.006Z"
+          "lastSyncedAt": "2026-10-18T17:33:08.779Z"
         }
       ]
     }
