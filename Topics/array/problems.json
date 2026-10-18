@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-18T17:33:25.669Z",
+  "updatedAt": "2026-10-18T17:35:15.451Z",
   "problems": [
     {
       "frontendId": "1",
@@ -523,7 +523,7 @@
           "filename": "1389-create-target-array-in-the-given-order.py",
           "path": "1389-create-target-array-in-the-given-order/1389-create-target-array-in-the-given-order.py",
           "sha": "c03a1aeea9c95bd8aa1afc2b5b26a693299670b0",
-          "lastSyncedAt": "2026-10-10T19:14:33.447Z"
+          "lastSyncedAt": "2026-10-18T17:35:15.451Z"
         }
       ]
     },
