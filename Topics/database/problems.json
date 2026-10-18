@@ -5,7 +5,7 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-10-18T17:38:06.133Z",
+  "updatedAt": "2026-10-18T17:38:09.152Z",
   "problems": [
     {
       "frontendId": "175",
@@ -183,7 +183,7 @@
           "filename": "0608-tree-node.sql",
           "path": "0608-tree-node/0608-tree-node.sql",
           "sha": "15ecf51ca477d01c8e6437442ab6514a9df3f59c",
-          "lastSyncedAt": "2026-10-10T19:18:24.075Z"
+          "lastSyncedAt": "2026-10-18T17:38:09.152Z"
         }
       ]
     },
