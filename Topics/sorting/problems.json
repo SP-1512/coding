@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-18T17:35:44.420Z",
+  "updatedAt": "2026-10-18T17:36:09.417Z",
   "problems": [
     {
       "frontendId": "169",
@@ -43,7 +43,7 @@
           "filename": "0217-contains-duplicate.py",
           "path": "0217-contains-duplicate/0217-contains-duplicate.py",
           "sha": "ad06b688181775b399605bf00d10477d85a7717c",
-          "lastSyncedAt": "2026-10-10T19:15:43.773Z"
+          "lastSyncedAt": "2026-10-18T17:36:09.417Z"
         }
       ]
     },
