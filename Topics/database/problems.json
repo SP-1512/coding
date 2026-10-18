@@ -5,7 +5,7 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-10-18T17:37:49.415Z",
+  "updatedAt": "2026-10-18T17:37:53.865Z",
   "problems": [
     {
       "frontendId": "175",
@@ -123,7 +123,7 @@
           "filename": "0185-department-top-three-salaries.sql",
           "path": "0185-department-top-three-salaries/0185-department-top-three-salaries.sql",
           "sha": "e482fc2bf742d852e8547ab79919cc72511f277e",
-          "lastSyncedAt": "2026-10-10T19:18:00.011Z"
+          "lastSyncedAt": "2026-10-18T17:37:53.865Z"
         }
       ]
     },
