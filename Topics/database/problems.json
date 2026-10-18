@@ -5,7 +5,7 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-10-18T17:37:53.865Z",
+  "updatedAt": "2026-10-18T17:37:56.916Z",
   "problems": [
     {
       "frontendId": "175",
@@ -63,7 +63,7 @@
           "filename": "0178-rank-scores.sql",
           "path": "0178-rank-scores/0178-rank-scores.sql",
           "sha": "0fe47d6fb95d98f6aac885774531c8d9f3b416b6",
-          "lastSyncedAt": "2026-10-10T19:18:05.115Z"
+          "lastSyncedAt": "2026-10-18T17:37:56.916Z"
         }
       ]
     },
