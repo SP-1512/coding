@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-10-18T17:31:55.756Z",
+  "updatedAt": "2026-10-18T17:32:09.479Z",
   "problems": [
     {
       "frontendId": "287",
@@ -63,7 +63,7 @@
           "filename": "2529-maximum-count-of-positive-integer-and-negative-integer.py",
           "path": "2529-maximum-count-of-positive-integer-and-negative-integer/2529-maximum-count-of-positive-integer-and-negative-integer.py",
           "sha": "9b1816e029e299ae35cfe140af5b8f1d61ec557d",
-          "lastSyncedAt": "2026-10-10T19:12:13.643Z"
+          "lastSyncedAt": "2026-10-18T17:32:09.479Z"
         }
       ]
     }
