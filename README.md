@@ -6,7 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 120 | 98 | 19 | 3 |
+| 121 | 99 | 19 | 3 |
 
 ## Activity
 
@@ -29,28 +29,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 2026-10-15 | 3 |
 | 2026-10-16 | 3 |
 | 2026-10-17 | 1 |
-| 2026-10-18 | 1 |
+| 2026-10-18 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 51 | 43% |
+| Array | 52 | 43% |
 | Math | 35 | 29% |
-| String | 30 | 25% |
+| String | 31 | 26% |
 | Hash Table | 23 | 19% |
 | Sorting | 16 | 13% |
 | Database | 13 | 11% |
 | Simulation | 13 | 11% |
 | Counting | 11 | 9% |
-| Two Pointers | 9 | 8% |
+| Two Pointers | 10 | 8% |
 | Bit Manipulation | 7 | 6% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 51 |
+| [Array](Topics/array/) | 52 |
 | [Binary Search](Topics/binary-search/) | 3 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 7 |
 | [Boyer–Moore Majority Vote Algorithm](Topics/boyer-moore-majority-vote-algorithm/) | 1 |
@@ -88,7 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [Sliding Window](Topics/sliding-window/) | 1 |
 | [Sorting](Topics/sorting/) | 16 |
 | [Stack](Topics/stack/) | 1 |
-| [String](Topics/string/) | 30 |
+| [String](Topics/string/) | 31 |
 | [Trie](Topics/trie/) | 1 |
-| [Two Pointers](Topics/two-pointers/) | 9 |
+| [Two Pointers](Topics/two-pointers/) | 10 |
 <!---LeetHub Summary End-->
