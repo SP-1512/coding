@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-18T17:32:56.384Z",
+  "updatedAt": "2026-10-18T17:33:02.510Z",
   "problems": [
     {
       "frontendId": "1",
@@ -163,7 +163,7 @@
           "filename": "0442-find-all-duplicates-in-an-array.py",
           "path": "0442-find-all-duplicates-in-an-array/0442-find-all-duplicates-in-an-array.py",
           "sha": "c95a9980672a67bba0dc5693823655588e05ec0e",
-          "lastSyncedAt": "2026-10-10T19:13:22.064Z"
+          "lastSyncedAt": "2026-10-18T17:33:02.510Z"
         }
       ]
     },
