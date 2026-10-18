@@ -6,17 +6,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 119 | 97 | 19 | 3 |
+| 120 | 98 | 19 | 3 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 8 days | 8 days | 30 |
+| 9 days | 9 days | 31 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-29 | 3 |
 | 2026-09-30 | 2 |
 | 2026-10-01 | 11 |
 | 2026-10-04 | 1 |
@@ -30,12 +29,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 2026-10-15 | 3 |
 | 2026-10-16 | 3 |
 | 2026-10-17 | 1 |
+| 2026-10-18 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 50 | 42% |
+| Array | 51 | 43% |
 | Math | 35 | 29% |
 | String | 30 | 25% |
 | Hash Table | 23 | 19% |
@@ -50,7 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 50 |
+| [Array](Topics/array/) | 51 |
 | [Binary Search](Topics/binary-search/) | 3 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 7 |
 | [Boyer–Moore Majority Vote Algorithm](Topics/boyer-moore-majority-vote-algorithm/) | 1 |
