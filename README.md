@@ -6,17 +6,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 123 | 101 | 19 | 3 |
+| 124 | 102 | 19 | 3 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 9 days | 9 days | 31 |
+| 10 days | 10 days | 32 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-30 | 2 |
 | 2026-10-01 | 11 |
 | 2026-10-04 | 1 |
 | 2026-10-05 | 13 |
@@ -30,18 +29,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 2026-10-16 | 3 |
 | 2026-10-17 | 1 |
 | 2026-10-18 | 4 |
+| 2026-10-19 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 54 | 44% |
+| Array | 55 | 44% |
 | Math | 36 | 29% |
-| String | 31 | 25% |
+| String | 32 | 26% |
 | Hash Table | 23 | 19% |
 | Sorting | 17 | 14% |
-| Database | 13 | 11% |
-| Simulation | 13 | 11% |
+| Database | 13 | 10% |
+| Simulation | 13 | 10% |
 | Counting | 11 | 9% |
 | Two Pointers | 10 | 8% |
 | Bit Manipulation | 7 | 6% |
@@ -50,7 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 54 |
+| [Array](Topics/array/) | 55 |
 | [Binary Search](Topics/binary-search/) | 3 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 7 |
 | [Boyer–Moore Majority Vote Algorithm](Topics/boyer-moore-majority-vote-algorithm/) | 1 |
@@ -88,7 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [Sliding Window](Topics/sliding-window/) | 1 |
 | [Sorting](Topics/sorting/) | 17 |
 | [Stack](Topics/stack/) | 1 |
-| [String](Topics/string/) | 31 |
+| [String](Topics/string/) | 32 |
+| [String Matching](Topics/string-matching/) | 1 |
 | [Trie](Topics/trie/) | 1 |
 | [Two Pointers](Topics/two-pointers/) | 10 |
 <!---LeetHub Summary End-->
