@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-18T17:38:17.417Z",
+  "updatedAt": "2026-10-19T07:21:51.459Z",
   "problems": [
     {
       "frontendId": "58",
@@ -524,6 +524,26 @@
           "path": "2108-find-first-palindromic-string-in-the-array/2108-find-first-palindromic-string-in-the-array.py",
           "sha": "857d87b941390d0b18558f914cadb586f25ff06f",
           "lastSyncedAt": "2026-10-18T17:25:02.916Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2185",
+      "title": "Counting Words With a Given Prefix",
+      "slug": "counting-words-with-a-given-prefix",
+      "problemName": "2185-counting-words-with-a-given-prefix",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/counting-words-with-a-given-prefix/",
+      "folderPath": "2185-counting-words-with-a-given-prefix/",
+      "readmePath": "2185-counting-words-with-a-given-prefix/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2185-counting-words-with-a-given-prefix.py",
+          "path": "2185-counting-words-with-a-given-prefix/2185-counting-words-with-a-given-prefix.py",
+          "sha": "de0baac7558c7f539d44b4eb8df25a8c60bf3b3d",
+          "lastSyncedAt": "2026-10-19T07:21:51.459Z"
         }
       ]
     },
