@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-19T07:21:51.459Z",
+  "updatedAt": "2026-10-20T08:19:53.439Z",
   "problems": [
     {
       "frontendId": "58",
@@ -544,6 +544,26 @@
           "path": "2185-counting-words-with-a-given-prefix/2185-counting-words-with-a-given-prefix.py",
           "sha": "de0baac7558c7f539d44b4eb8df25a8c60bf3b3d",
           "lastSyncedAt": "2026-10-19T07:21:51.459Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2264",
+      "title": "Largest 3-Same-Digit Number in String",
+      "slug": "largest-3-same-digit-number-in-string",
+      "problemName": "2264-largest-3-same-digit-number-in-string",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/largest-3-same-digit-number-in-string/",
+      "folderPath": "2264-largest-3-same-digit-number-in-string/",
+      "readmePath": "2264-largest-3-same-digit-number-in-string/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2264-largest-3-same-digit-number-in-string.py",
+          "path": "2264-largest-3-same-digit-number-in-string/2264-largest-3-same-digit-number-in-string.py",
+          "sha": "3f7741a47d18f8de8f51c0fdf4bdb88c23d5420a",
+          "lastSyncedAt": "2026-10-20T08:19:53.439Z"
         }
       ]
     },
