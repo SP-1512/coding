@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-21T07:21:17.748Z",
+  "updatedAt": "2026-10-21T07:21:20.293Z",
   "problems": [
     {
       "frontendId": "9",
@@ -603,7 +603,7 @@
           "filename": "2535-difference-between-element-sum-and-digit-sum-of-an-array.py",
           "path": "2535-difference-between-element-sum-and-digit-sum-of-an-array/2535-difference-between-element-sum-and-digit-sum-of-an-array.py",
           "sha": "1c222a9e3b3abca933c44a6b1950f8cc1f6ebbe8",
-          "lastSyncedAt": "2026-10-18T17:25:35.906Z"
+          "lastSyncedAt": "2026-10-21T07:21:20.293Z"
         }
       ]
     },
