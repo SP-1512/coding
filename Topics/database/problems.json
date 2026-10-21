@@ -5,7 +5,7 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-10-21T07:31:24.624Z",
+  "updatedAt": "2026-10-21T07:31:27.402Z",
   "problems": [
     {
       "frontendId": "175",
@@ -43,7 +43,7 @@
           "filename": "0176-second-highest-salary.sql",
           "path": "0176-second-highest-salary/0176-second-highest-salary.sql",
           "sha": "a10c94a96730ead54e1b561608c0ad7ccdd754ab",
-          "lastSyncedAt": "2026-10-18T17:38:29.513Z"
+          "lastSyncedAt": "2026-10-21T07:31:27.402Z"
         }
       ]
     },
