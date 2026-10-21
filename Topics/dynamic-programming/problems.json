@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-10-21T07:30:14.778Z",
+  "updatedAt": "2026-10-21T07:30:38.452Z",
   "problems": [
     {
       "frontendId": "121",
@@ -43,7 +43,7 @@
           "filename": "0233-number-of-digit-one.cpp",
           "path": "0233-number-of-digit-one/0233-number-of-digit-one.cpp",
           "sha": "7a44e9d753f7e8277e903e76e154292bd34672e6",
-          "lastSyncedAt": "2026-10-18T17:37:31.948Z"
+          "lastSyncedAt": "2026-10-21T07:30:38.452Z"
         }
       ]
     },
