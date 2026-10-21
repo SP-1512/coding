@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-21T07:30:04.039Z",
+  "updatedAt": "2026-10-21T07:52:09.539Z",
   "problems": [
     {
       "frontendId": "1",
@@ -824,6 +824,26 @@
           "path": "1816-truncate-sentence/1816-truncate-sentence.py",
           "sha": "b6f5f9c45af7970c5ca8150adcb29578c65e287c",
           "lastSyncedAt": "2026-10-21T07:23:28.718Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1822",
+      "title": "Sign of the Product of an Array",
+      "slug": "sign-of-the-product-of-an-array",
+      "problemName": "1822-sign-of-the-product-of-an-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/sign-of-the-product-of-an-array/",
+      "folderPath": "1822-sign-of-the-product-of-an-array/",
+      "readmePath": "1822-sign-of-the-product-of-an-array/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "1822-sign-of-the-product-of-an-array.py",
+          "path": "1822-sign-of-the-product-of-an-array/1822-sign-of-the-product-of-an-array.py",
+          "sha": "61e42e96a63eb06f1c809d9c194825be87869812",
+          "lastSyncedAt": "2026-10-21T07:52:09.539Z"
         }
       ]
     },
