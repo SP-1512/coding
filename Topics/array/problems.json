@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-21T07:21:24.982Z",
+  "updatedAt": "2026-10-21T07:21:36.051Z",
   "problems": [
     {
       "frontendId": "1",
@@ -1063,7 +1063,7 @@
           "filename": "3065-minimum-operations-to-exceed-threshold-value-i.py",
           "path": "3065-minimum-operations-to-exceed-threshold-value-i/3065-minimum-operations-to-exceed-threshold-value-i.py",
           "sha": "f4ccdd88cbe6a3dbd6238e89bac2fc7392f0e68e",
-          "lastSyncedAt": "2026-10-18T17:25:53.889Z"
+          "lastSyncedAt": "2026-10-21T07:21:36.051Z"
         }
       ]
     },
