@@ -5,7 +5,7 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-10-21T07:31:13.007Z",
+  "updatedAt": "2026-10-21T07:31:24.624Z",
   "problems": [
     {
       "frontendId": "175",
@@ -203,7 +203,7 @@
           "filename": "1045-customers-who-bought-all-products.sql",
           "path": "1045-customers-who-bought-all-products/1045-customers-who-bought-all-products.sql",
           "sha": "736220b77e2b7746a667c0c6b3a1e66f877bd643",
-          "lastSyncedAt": "2026-10-18T17:38:26.971Z"
+          "lastSyncedAt": "2026-10-21T07:31:24.624Z"
         }
       ]
     },
