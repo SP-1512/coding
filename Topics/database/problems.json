@@ -5,7 +5,7 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-10-21T07:30:58.451Z",
+  "updatedAt": "2026-10-21T07:31:01.146Z",
   "problems": [
     {
       "frontendId": "175",
@@ -163,7 +163,7 @@
           "filename": "0602-friend-requests-ii-who-has-the-most-friends.sql",
           "path": "0602-friend-requests-ii-who-has-the-most-friends/0602-friend-requests-ii-who-has-the-most-friends.sql",
           "sha": "cd3ade0f7ae6edccd1bea686268fd96c9414d1e8",
-          "lastSyncedAt": "2026-10-18T17:38:00.097Z"
+          "lastSyncedAt": "2026-10-21T07:31:01.146Z"
         }
       ]
     },
