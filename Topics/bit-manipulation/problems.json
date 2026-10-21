@@ -5,7 +5,7 @@
     "name": "Bit Manipulation",
     "tagId": "19"
   },
-  "updatedAt": "2026-10-21T07:29:55.618Z",
+  "updatedAt": "2026-10-21T07:29:59.921Z",
   "problems": [
     {
       "frontendId": "190",
@@ -143,7 +143,7 @@
           "filename": "1486-xor-operation-in-an-array.cpp",
           "path": "1486-xor-operation-in-an-array/1486-xor-operation-in-an-array.cpp",
           "sha": "e1b58c44b71f9bc6d361284645807378a38c5578",
-          "lastSyncedAt": "2026-10-18T17:36:48.735Z"
+          "lastSyncedAt": "2026-10-21T07:29:59.921Z"
         }
       ]
     }
