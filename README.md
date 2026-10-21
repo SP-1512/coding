@@ -6,17 +6,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 125 | 103 | 19 | 3 |
+| 126 | 104 | 19 | 3 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 0 days | 11 days | 33 |
+| 12 days | 12 days | 34 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-10-04 | 1 |
 | 2026-10-05 | 13 |
 | 2026-10-06 | 10 |
 | 2026-10-10 | 5 |
@@ -30,16 +29,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 2026-10-18 | 4 |
 | 2026-10-19 | 1 |
 | 2026-10-20 | 1 |
+| 2026-10-21 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
 | Array | 55 | 44% |
-| Math | 36 | 29% |
+| Math | 37 | 29% |
 | String | 33 | 26% |
 | Hash Table | 23 | 18% |
-| Sorting | 17 | 14% |
+| Sorting | 17 | 13% |
 | Database | 13 | 10% |
 | Simulation | 13 | 10% |
 | Counting | 11 | 9% |
@@ -71,7 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [Greedy](Topics/greedy/) | 2 |
 | [Hash Table](Topics/hash-table/) | 23 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 6 |
-| [Math](Topics/math/) | 36 |
+| [Math](Topics/math/) | 37 |
 | [Matrix](Topics/matrix/) | 5 |
 | [Memoization](Topics/memoization/) | 1 |
 | [Number Theory](Topics/number-theory/) | 5 |
