@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-22T06:03:25.309Z",
+  "updatedAt": "2026-10-22T06:03:57.350Z",
   "problems": [
     {
       "frontendId": "169",
@@ -263,7 +263,7 @@
           "filename": "0977-squares-of-a-sorted-array.py",
           "path": "0977-squares-of-a-sorted-array/0977-squares-of-a-sorted-array.py",
           "sha": "cc482f258f7e2a98d98755c199dfa6df22af0f67",
-          "lastSyncedAt": "2026-10-22T06:03:25.309Z"
+          "lastSyncedAt": "2026-10-22T06:03:57.350Z"
         }
       ]
     },
