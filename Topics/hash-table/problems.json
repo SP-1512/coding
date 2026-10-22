@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-21T07:31:15.573Z",
+  "updatedAt": "2026-10-22T12:11:43.371Z",
   "problems": [
     {
       "frontendId": "1",
@@ -464,6 +464,26 @@
           "path": "3541-find-most-frequent-vowel-and-consonant/3541-find-most-frequent-vowel-and-consonant.py",
           "sha": "15e418976c4ee115b28020be8f8baf94c434022a",
           "lastSyncedAt": "2026-10-21T07:23:33.558Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3945",
+      "title": "Digit Frequency Score",
+      "slug": "digit-frequency-score",
+      "problemName": "3945-digit-frequency-score",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/digit-frequency-score/",
+      "folderPath": "3945-digit-frequency-score/",
+      "readmePath": "3945-digit-frequency-score/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3945-digit-frequency-score.py",
+          "path": "3945-digit-frequency-score/3945-digit-frequency-score.py",
+          "sha": "7e3ec52f8533c5a8b86b8a925675a4d97ad5c34d",
+          "lastSyncedAt": "2026-10-22T12:11:43.371Z"
         }
       ]
     }
