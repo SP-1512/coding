@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-22T12:11:43.371Z",
+  "updatedAt": "2026-10-22T12:16:29.497Z",
   "problems": [
     {
       "frontendId": "9",
@@ -764,6 +764,26 @@
           "path": "3516-find-closest-person/3516-find-closest-person.py",
           "sha": "ea2bfe39ff84a9ee6cfa729fa6a0d7ac2fc0f95b",
           "lastSyncedAt": "2026-10-21T07:38:52.542Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3908",
+      "title": "Valid Digit Number",
+      "slug": "valid-digit-number",
+      "problemName": "3908-valid-digit-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-digit-number/",
+      "folderPath": "3908-valid-digit-number/",
+      "readmePath": "3908-valid-digit-number/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3908-valid-digit-number.py",
+          "path": "3908-valid-digit-number/3908-valid-digit-number.py",
+          "sha": "57672e8263c6a9c23b2646eabef0ded1c4977c69",
+          "lastSyncedAt": "2026-10-22T12:16:29.497Z"
         }
       ]
     },
