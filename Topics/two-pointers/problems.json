@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-10-22T06:02:55.120Z",
+  "updatedAt": "2026-10-22T06:03:25.309Z",
   "problems": [
     {
       "frontendId": "125",
@@ -183,7 +183,7 @@
           "filename": "0977-squares-of-a-sorted-array.py",
           "path": "0977-squares-of-a-sorted-array/0977-squares-of-a-sorted-array.py",
           "sha": "cc482f258f7e2a98d98755c199dfa6df22af0f67",
-          "lastSyncedAt": "2026-10-22T06:02:55.120Z"
+          "lastSyncedAt": "2026-10-22T06:03:25.309Z"
         }
       ]
     },
