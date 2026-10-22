@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-21T07:53:00.374Z",
+  "updatedAt": "2026-10-22T12:11:43.371Z",
   "problems": [
     {
       "frontendId": "9",
@@ -764,6 +764,26 @@
           "path": "3516-find-closest-person/3516-find-closest-person.py",
           "sha": "ea2bfe39ff84a9ee6cfa729fa6a0d7ac2fc0f95b",
           "lastSyncedAt": "2026-10-21T07:38:52.542Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3945",
+      "title": "Digit Frequency Score",
+      "slug": "digit-frequency-score",
+      "problemName": "3945-digit-frequency-score",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/digit-frequency-score/",
+      "folderPath": "3945-digit-frequency-score/",
+      "readmePath": "3945-digit-frequency-score/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3945-digit-frequency-score.py",
+          "path": "3945-digit-frequency-score/3945-digit-frequency-score.py",
+          "sha": "7e3ec52f8533c5a8b86b8a925675a4d97ad5c34d",
+          "lastSyncedAt": "2026-10-22T12:11:43.371Z"
         }
       ]
     }
