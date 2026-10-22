@@ -6,7 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 130 | 108 | 19 | 3 |
+| 131 | 109 | 19 | 3 |
 
 ## Activity
 
@@ -29,17 +29,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 2026-10-19 | 1 |
 | 2026-10-20 | 1 |
 | 2026-10-21 | 2 |
-| 2026-10-22 | 3 |
+| 2026-10-22 | 4 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 57 | 44% |
+| Array | 58 | 44% |
 | Math | 40 | 31% |
 | String | 33 | 25% |
-| Hash Table | 24 | 18% |
-| Sorting | 18 | 14% |
+| Hash Table | 25 | 19% |
+| Sorting | 19 | 15% |
 | Database | 13 | 10% |
 | Simulation | 13 | 10% |
 | Counting | 11 | 8% |
@@ -50,7 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 57 |
+| [Array](Topics/array/) | 58 |
 | [Binary Search](Topics/binary-search/) | 3 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 7 |
 | [Boyer–Moore Majority Vote Algorithm](Topics/boyer-moore-majority-vote-algorithm/) | 1 |
@@ -69,7 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [Graph Theory](Topics/graph/) | 1 |
 | [Greatest Common Divisor](Topics/greatest-common-divisor/) | 1 |
 | [Greedy](Topics/greedy/) | 2 |
-| [Hash Table](Topics/hash-table/) | 24 |
+| [Hash Table](Topics/hash-table/) | 25 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 6 |
 | [Math](Topics/math/) | 40 |
 | [Matrix](Topics/matrix/) | 5 |
@@ -86,7 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [Sieve Theory](Topics/sieve-theory/) | 2 |
 | [Simulation](Topics/simulation/) | 13 |
 | [Sliding Window](Topics/sliding-window/) | 1 |
-| [Sorting](Topics/sorting/) | 18 |
+| [Sorting](Topics/sorting/) | 19 |
 | [Stack](Topics/stack/) | 1 |
 | [String](Topics/string/) | 33 |
 | [String Matching](Topics/string-matching/) | 1 |
