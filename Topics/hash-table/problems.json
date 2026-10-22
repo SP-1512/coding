@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-10-22T12:11:43.371Z",
+  "updatedAt": "2026-10-22T12:30:29.503Z",
   "problems": [
     {
       "frontendId": "1",
@@ -464,6 +464,26 @@
           "path": "3541-find-most-frequent-vowel-and-consonant/3541-find-most-frequent-vowel-and-consonant.py",
           "sha": "15e418976c4ee115b28020be8f8baf94c434022a",
           "lastSyncedAt": "2026-10-21T07:23:33.558Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3731",
+      "title": "Find Missing Elements",
+      "slug": "find-missing-elements",
+      "problemName": "3731-find-missing-elements",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-missing-elements/",
+      "folderPath": "3731-find-missing-elements/",
+      "readmePath": "3731-find-missing-elements/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3731-find-missing-elements.py",
+          "path": "3731-find-missing-elements/3731-find-missing-elements.py",
+          "sha": "ef91b2a22125797749f6c631c84ef26ad6c8df81",
+          "lastSyncedAt": "2026-10-22T12:30:29.503Z"
         }
       ]
     },
