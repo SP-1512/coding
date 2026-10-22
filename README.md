@@ -6,7 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 128 | 106 | 19 | 3 |
+| 130 | 108 | 19 | 3 |
 
 ## Activity
 
@@ -29,21 +29,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 2026-10-19 | 1 |
 | 2026-10-20 | 1 |
 | 2026-10-21 | 2 |
-| 2026-10-22 | 1 |
+| 2026-10-22 | 3 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 57 | 45% |
-| Math | 38 | 30% |
-| String | 33 | 26% |
-| Hash Table | 23 | 18% |
+| Array | 57 | 44% |
+| Math | 40 | 31% |
+| String | 33 | 25% |
+| Hash Table | 24 | 18% |
 | Sorting | 18 | 14% |
 | Database | 13 | 10% |
 | Simulation | 13 | 10% |
-| Counting | 11 | 9% |
-| Two Pointers | 11 | 9% |
+| Counting | 11 | 8% |
+| Two Pointers | 11 | 8% |
 | Bit Manipulation | 7 | 5% |
 
 ## Topics
@@ -69,9 +69,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [Graph Theory](Topics/graph/) | 1 |
 | [Greatest Common Divisor](Topics/greatest-common-divisor/) | 1 |
 | [Greedy](Topics/greedy/) | 2 |
-| [Hash Table](Topics/hash-table/) | 23 |
+| [Hash Table](Topics/hash-table/) | 24 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 6 |
-| [Math](Topics/math/) | 38 |
+| [Math](Topics/math/) | 40 |
 | [Matrix](Topics/matrix/) | 5 |
 | [Memoization](Topics/memoization/) | 1 |
 | [Number Theory](Topics/number-theory/) | 5 |
