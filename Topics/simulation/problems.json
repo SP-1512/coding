@@ -5,7 +5,7 @@
     "name": "Simulation",
     "tagId": "61055"
   },
-  "updatedAt": "2026-10-23T13:15:08.441Z",
+  "updatedAt": "2026-10-23T13:15:24.137Z",
   "problems": [
     {
       "frontendId": "54",
@@ -283,7 +283,7 @@
           "filename": "3726-remove-zeros-in-decimal-representation.py",
           "path": "3726-remove-zeros-in-decimal-representation/3726-remove-zeros-in-decimal-representation.py",
           "sha": "c313a35bd1af1c571c81fdefeaf71eee84a78139",
-          "lastSyncedAt": "2026-10-23T13:15:08.441Z"
+          "lastSyncedAt": "2026-10-23T13:15:24.137Z"
         }
       ]
     }
