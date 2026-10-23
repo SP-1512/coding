@@ -6,17 +6,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 131 | 109 | 19 | 3 |
+| 133 | 111 | 19 | 3 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 13 days | 13 days | 35 |
+| 14 days | 14 days | 36 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-10-06 | 10 |
 | 2026-10-10 | 5 |
 | 2026-10-11 | 2 |
 | 2026-10-12 | 2 |
@@ -29,19 +28,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 2026-10-19 | 1 |
 | 2026-10-20 | 1 |
 | 2026-10-21 | 2 |
-| 2026-10-22 | 4 |
+| 2026-10-22 | 5 |
+| 2026-10-23 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
 | Array | 58 | 44% |
-| Math | 40 | 31% |
+| Math | 42 | 32% |
 | String | 33 | 25% |
 | Hash Table | 25 | 19% |
-| Sorting | 19 | 15% |
+| Sorting | 20 | 15% |
+| Simulation | 14 | 11% |
 | Database | 13 | 10% |
-| Simulation | 13 | 10% |
 | Counting | 11 | 8% |
 | Two Pointers | 11 | 8% |
 | Bit Manipulation | 7 | 5% |
@@ -71,7 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [Greedy](Topics/greedy/) | 2 |
 | [Hash Table](Topics/hash-table/) | 25 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 6 |
-| [Math](Topics/math/) | 40 |
+| [Math](Topics/math/) | 42 |
 | [Matrix](Topics/matrix/) | 5 |
 | [Memoization](Topics/memoization/) | 1 |
 | [Number Theory](Topics/number-theory/) | 5 |
@@ -84,9 +84,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [Quickselect](Topics/quickselect/) | 1 |
 | [Recursion](Topics/recursion/) | 5 |
 | [Sieve Theory](Topics/sieve-theory/) | 2 |
-| [Simulation](Topics/simulation/) | 13 |
+| [Simulation](Topics/simulation/) | 14 |
 | [Sliding Window](Topics/sliding-window/) | 1 |
-| [Sorting](Topics/sorting/) | 19 |
+| [Sorting](Topics/sorting/) | 20 |
 | [Stack](Topics/stack/) | 1 |
 | [String](Topics/string/) | 33 |
 | [String Matching](Topics/string-matching/) | 1 |
