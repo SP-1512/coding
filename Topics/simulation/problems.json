@@ -5,7 +5,7 @@
     "name": "Simulation",
     "tagId": "61055"
   },
-  "updatedAt": "2026-10-21T07:29:45.957Z",
+  "updatedAt": "2026-10-23T13:15:08.441Z",
   "problems": [
     {
       "frontendId": "54",
@@ -264,6 +264,26 @@
           "path": "3498-reverse-degree-of-a-string/3498-reverse-degree-of-a-string.py",
           "sha": "0e3410cf155be467e12de51aaf431d01e6fd19c5",
           "lastSyncedAt": "2026-10-21T07:22:32.952Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3726",
+      "title": "Remove Zeros in Decimal Representation",
+      "slug": "remove-zeros-in-decimal-representation",
+      "problemName": "3726-remove-zeros-in-decimal-representation",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-zeros-in-decimal-representation/",
+      "folderPath": "3726-remove-zeros-in-decimal-representation/",
+      "readmePath": "3726-remove-zeros-in-decimal-representation/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3726-remove-zeros-in-decimal-representation.py",
+          "path": "3726-remove-zeros-in-decimal-representation/3726-remove-zeros-in-decimal-representation.py",
+          "sha": "c313a35bd1af1c571c81fdefeaf71eee84a78139",
+          "lastSyncedAt": "2026-10-23T13:15:08.441Z"
         }
       ]
     }
