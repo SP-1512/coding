@@ -5,7 +5,7 @@
     "name": "Prefix Sum",
     "tagId": "61068"
   },
-  "updatedAt": "2026-10-21T07:29:23.109Z",
+  "updatedAt": "2026-10-23T13:40:48.311Z",
   "problems": [
     {
       "frontendId": "1480",
@@ -44,6 +44,26 @@
           "path": "1732-find-the-highest-altitude/1732-find-the-highest-altitude.py",
           "sha": "2b7e3d7386390a3ba5b0e01d0887d6bd28273bd2",
           "lastSyncedAt": "2026-10-21T07:27:27.691Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2485",
+      "title": "Find the Pivot Integer",
+      "slug": "find-the-pivot-integer",
+      "problemName": "2485-find-the-pivot-integer",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-pivot-integer/",
+      "folderPath": "2485-find-the-pivot-integer/",
+      "readmePath": "2485-find-the-pivot-integer/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2485-find-the-pivot-integer.py",
+          "path": "2485-find-the-pivot-integer/2485-find-the-pivot-integer.py",
+          "sha": "9f388b9539771c71c951d99c2d5dc21296ac13d7",
+          "lastSyncedAt": "2026-10-23T13:40:48.311Z"
         }
       ]
     },
