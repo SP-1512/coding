@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-23T13:20:38.702Z",
+  "updatedAt": "2026-10-23T13:40:48.311Z",
   "problems": [
     {
       "frontendId": "9",
@@ -584,6 +584,26 @@
           "path": "2469-convert-the-temperature/2469-convert-the-temperature.py",
           "sha": "20a813fa5f8ef368373a12d0f08c6a97ae09f8ca",
           "lastSyncedAt": "2026-10-21T07:23:44.020Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2485",
+      "title": "Find the Pivot Integer",
+      "slug": "find-the-pivot-integer",
+      "problemName": "2485-find-the-pivot-integer",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-pivot-integer/",
+      "folderPath": "2485-find-the-pivot-integer/",
+      "readmePath": "2485-find-the-pivot-integer/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "2485-find-the-pivot-integer.py",
+          "path": "2485-find-the-pivot-integer/2485-find-the-pivot-integer.py",
+          "sha": "9f388b9539771c71c951d99c2d5dc21296ac13d7",
+          "lastSyncedAt": "2026-10-23T13:40:48.311Z"
         }
       ]
     },
