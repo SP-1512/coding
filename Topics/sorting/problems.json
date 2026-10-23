@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-23T13:20:03.661Z",
+  "updatedAt": "2026-10-23T13:20:23.228Z",
   "problems": [
     {
       "frontendId": "169",
@@ -363,7 +363,7 @@
           "filename": "2974-minimum-number-game.py",
           "path": "2974-minimum-number-game/2974-minimum-number-game.py",
           "sha": "1202f3ebfc0dfef0fd7e38fc60175e2c5a237497",
-          "lastSyncedAt": "2026-10-21T07:21:02.996Z"
+          "lastSyncedAt": "2026-10-23T13:20:23.228Z"
         }
       ]
     },
