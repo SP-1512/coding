@@ -6,7 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 133 | 111 | 19 | 3 |
+| 134 | 112 | 19 | 3 |
 
 ## Activity
 
@@ -29,18 +29,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | 2026-10-20 | 1 |
 | 2026-10-21 | 2 |
 | 2026-10-22 | 5 |
-| 2026-10-23 | 1 |
+| 2026-10-23 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 58 | 44% |
-| Math | 42 | 32% |
+| Array | 58 | 43% |
+| Math | 43 | 32% |
 | String | 33 | 25% |
 | Hash Table | 25 | 19% |
 | Sorting | 20 | 15% |
-| Simulation | 14 | 11% |
+| Simulation | 14 | 10% |
 | Database | 13 | 10% |
 | Counting | 11 | 8% |
 | Two Pointers | 11 | 8% |
@@ -71,12 +71,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [Greedy](Topics/greedy/) | 2 |
 | [Hash Table](Topics/hash-table/) | 25 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 6 |
-| [Math](Topics/math/) | 42 |
+| [Math](Topics/math/) | 43 |
 | [Matrix](Topics/matrix/) | 5 |
 | [Memoization](Topics/memoization/) | 1 |
 | [Number Theory](Topics/number-theory/) | 5 |
 | [Pigeonhole Principle](Topics/pigeonhole-principle/) | 1 |
-| [Prefix Sum](Topics/prefix-sum/) | 3 |
+| [Prefix Sum](Topics/prefix-sum/) | 4 |
 | [Primality Test](Topics/primality-test/) | 1 |
 | [Prime Factorization](Topics/prime-factorization/) | 1 |
 | [Prime Number Sieve](Topics/prime-number-sieve/) | 1 |
