@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-23T13:20:01.916Z",
+  "updatedAt": "2026-10-23T13:20:09.067Z",
   "problems": [
     {
       "frontendId": "9",
@@ -723,7 +723,7 @@
           "filename": "3232-find-if-digit-game-can-be-won.py",
           "path": "3232-find-if-digit-game-can-be-won/3232-find-if-digit-game-can-be-won.py",
           "sha": "7308d26a2c5e69d45990ecef7ebbdeec936cd115",
-          "lastSyncedAt": "2026-10-21T07:20:48.041Z"
+          "lastSyncedAt": "2026-10-23T13:20:09.067Z"
         }
       ]
     },
