@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-22T12:41:27.526Z",
+  "updatedAt": "2026-10-23T13:15:08.441Z",
   "problems": [
     {
       "frontendId": "9",
@@ -784,6 +784,26 @@
           "path": "3536-maximum-product-of-two-digits/3536-maximum-product-of-two-digits.py",
           "sha": "5fa9554da98a0c34b80c69b6771d761708e8a821",
           "lastSyncedAt": "2026-10-22T12:41:27.526Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3726",
+      "title": "Remove Zeros in Decimal Representation",
+      "slug": "remove-zeros-in-decimal-representation",
+      "problemName": "3726-remove-zeros-in-decimal-representation",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-zeros-in-decimal-representation/",
+      "folderPath": "3726-remove-zeros-in-decimal-representation/",
+      "readmePath": "3726-remove-zeros-in-decimal-representation/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "3726-remove-zeros-in-decimal-representation.py",
+          "path": "3726-remove-zeros-in-decimal-representation/3726-remove-zeros-in-decimal-representation.py",
+          "sha": "c313a35bd1af1c571c81fdefeaf71eee84a78139",
+          "lastSyncedAt": "2026-10-23T13:15:08.441Z"
         }
       ]
     },
